@@ -1,0 +1,2298 @@
+KeywordID,Keyword,KeywordType
+1,Hand exoskeleton,Author Keywords
+2,motion intention recognition,Author Keywords
+3,large language model (LLM),Author Keywords
+4,ChatGPT,Author Keywords
+5,incremental learning,Author Keywords
+6,Exoskeletons,IEEE Keywords
+7,Task analysis,IEEE Keywords
+8,Thumb,IEEE Keywords
+9,Robots,IEEE Keywords
+10,Automation,IEEE Keywords
+11,Grasping,IEEE Keywords
+12,Control systems,IEEE Keywords
+13,Autonomous LLM Agents,Author Keywords
+14,Smart Home,Author Keywords
+15,IoT,Author Keywords
+16,Generative AI,Author Keywords
+17,Embodied AI,Author Keywords
+18,Personalized AI,Author Keywords
+19,AI Assistant,Author Keywords
+20,Smart homes,IEEE Keywords
+21,Codes,IEEE Keywords
+22,Performance evaluation,IEEE Keywords
+23,Internet of Things,IEEE Keywords
+24,Benchmark testing,IEEE Keywords
+25,Smart devices,IEEE Keywords
+26,Logic,IEEE Keywords
+27,Process control,IEEE Keywords
+28,Monitoring,IEEE Keywords
+29,Manuals,IEEE Keywords
+30,Connected electric vehicles,Author Keywords
+31,deep deterministic policy gradient,Author Keywords
+32,space-airground integrated vehicular networks (SAGVNs),Author Keywords
+33,power dispatching,Author Keywords
+34,Dispatching,IEEE Keywords
+35,Vehicles,IEEE Keywords
+36,Uncertainty,IEEE Keywords
+37,Electric vehicle charging,IEEE Keywords
+38,Vehicle dynamics,IEEE Keywords
+39,Data models,IEEE Keywords
+40,Power distribution,IEEE Keywords
+41,Heuristic algorithms,IEEE Keywords
+42,Costs,IEEE Keywords
+43,Decision making,IEEE Keywords
+44,Diagnosis,Author Keywords
+45,Medical imaging,Author Keywords
+46,Transformer,Author Keywords
+47,Fuzzy selector,Author Keywords
+48,LLM,Author Keywords
+49,Transformers,IEEE Keywords
+50,Image segmentation,IEEE Keywords
+51,Medical diagnostic imaging,IEEE Keywords
+52,Computer architecture,IEEE Keywords
+53,Medical services,IEEE Keywords
+54,Computational modeling,IEEE Keywords
+55,Accuracy,IEEE Keywords
+56,Training,IEEE Keywords
+57,Convolution,IEEE Keywords
+58,Context modeling,IEEE Keywords
+59,Chatbots,Author Keywords
+60,higher education,Author Keywords
+61,moodle,Author Keywords
+62,moodlebot,Author Keywords
+59,Chatbots,IEEE Keywords
+63,Education,IEEE Keywords
+64,Computer science,IEEE Keywords
+65,Databases,IEEE Keywords
+66,Mentoring,IEEE Keywords
+67,Information technology,IEEE Keywords
+68,Information systems,IEEE Keywords
+69,Adaptation models,IEEE Keywords
+70,Vectors,IEEE Keywords
+71,Large language model (LLM),Author Keywords
+72,Tool-using LLM agent,Author Keywords
+73,Privacy,Author Keywords
+74,Homomorphic encryption,Author Keywords
+75,$ t$ -Closeness,Author Keywords
+73,Privacy,IEEE Keywords
+76,Image color analysis,IEEE Keywords
+77,Cryptography,IEEE Keywords
+78,Data privacy,IEEE Keywords
+79,Forgery,IEEE Keywords
+80,Large language model,Author Keywords
+81,telecommunications,Author Keywords
+82,generation,Author Keywords
+83,classification,Author Keywords
+84,prediction,Author Keywords
+85,optimization,Author Keywords
+86,Telecommunications,IEEE Keywords
+87,6G mobile communication,IEEE Keywords
+88,Optimization,IEEE Keywords
+89,Surveys,IEEE Keywords
+90,Sensors,IEEE Keywords
+91,Reinforcement learning,IEEE Keywords
+92,Activation checkpointing,Author Keywords
+93,Deepspeed,Author Keywords
+94,large language model (LLM) training,Author Keywords
+95,Megatron,Author Keywords
+96,selective checkpointing,Author Keywords
+97,1F1B(one forward pass followed by one backward pass),Author Keywords
+98,Checkpointing,IEEE Keywords
+99,Memory management,IEEE Keywords
+100,Partitioning algorithms,IEEE Keywords
+101,Parallel processing,IEEE Keywords
+102,Large language models,IEEE Keywords
+103,autonomous system,Author Keywords
+104,agent,Author Keywords
+105,visual analysis,Author Keywords
+106,Visualization,IEEE Keywords
+107,Autonomous systems,IEEE Keywords
+108,Data visualization,IEEE Keywords
+109,Complexity theory,IEEE Keywords
+110,Collaboration,IEEE Keywords
+102,Large language models,Author Keywords
+111,life satisfaction,Author Keywords
+112,machine learning,Author Keywords
+113,natural language processing,Author Keywords
+114,psychometrics,Author Keywords
+115,Predictive models,IEEE Keywords
+116,Psychology,IEEE Keywords
+117,Analytical models,IEEE Keywords
+118,Regression tree analysis,IEEE Keywords
+119,Machine learning,IEEE Keywords
+120,Correlation,IEEE Keywords
+121,Feature extraction,IEEE Keywords
+122,Natural language processing,IEEE Keywords
+123,Autonomous vehicles,Author Keywords
+124,large language models (LLMs),Author Keywords
+125,mamba,Author Keywords
+126,trajectory prediction,Author Keywords
+127,Trajectory,IEEE Keywords
+123,Autonomous vehicles,IEEE Keywords
+128,Forecasting,IEEE Keywords
+129,Encoding,IEEE Keywords
+130,Cognition,IEEE Keywords
+131,Visual analytics,Author Keywords
+132,large language models,Author Keywords
+133,model evaluation,Author Keywords
+134,responsible AI,Author Keywords
+135,machine learning interpretability,Author Keywords
+136,Internet,IEEE Keywords
+137,Pipelines,IEEE Keywords
+138,Oral communication,IEEE Keywords
+139,Numerical models,IEEE Keywords
+140,Fuzzing,Author Keywords
+119,Machine learning,Author Keywords
+141,Large Language Models,Author Keywords
+142,Python,Author Keywords
+140,Fuzzing,IEEE Keywords
+143,Testing,IEEE Keywords
+142,Python,IEEE Keywords
+144,Libraries,IEEE Keywords
+145,Security,IEEE Keywords
+146,Protocols,IEEE Keywords
+147,Measurement,IEEE Keywords
+148,reconfigurable intelligent surface,Author Keywords
+149,large language model,Author Keywords
+150,6G,Author Keywords
+151,Internet of Vehicles,Author Keywords
+152,Reconfigurable intelligent surfaces,IEEE Keywords
+153,Wireless communication,IEEE Keywords
+154,Wireless sensor networks,IEEE Keywords
+155,Quality of service,IEEE Keywords
+156,Reliability,IEEE Keywords
+157,Healthcare,Author Keywords
+158,Emotion Recognition,Author Keywords
+159,Large Language Model,Author Keywords
+160,Multi-teacher Knowledge Distillation,Author Keywords
+161,Brain modeling,IEEE Keywords
+162,Electroencephalography,IEEE Keywords
+163,Emotion recognition,IEEE Keywords
+164,Physiology,IEEE Keywords
+165,Knowledge engineering,IEEE Keywords
+166,Bioinformatics,IEEE Keywords
+167,Biological system modeling,IEEE Keywords
+168,Generative Internet of Things,Author Keywords
+169,Table Question Answering,Author Keywords
+170,Prompt Engineering,Author Keywords
+171,Artificial intelligence,IEEE Keywords
+172,Structured Query Language,IEEE Keywords
+173,Servers,IEEE Keywords
+174,Question answering (information retrieval),IEEE Keywords
+175,Transforms,IEEE Keywords
+176,Social networking (online),IEEE Keywords
+177,Planning,IEEE Keywords
+178,Hardware design languages,IEEE Keywords
+179,Integrated circuit modeling,IEEE Keywords
+180,Natural languages,IEEE Keywords
+181,Hardware,IEEE Keywords
+182,Data collection,IEEE Keywords
+183,Weakly supervised learning,Author Keywords
+184,medical image segmentation,Author Keywords
+185,contrastive learning,Author Keywords
+186,LLMs,Author Keywords
+187,Contrastive learning,IEEE Keywords
+188,Semantics,IEEE Keywords
+189,Annotations,IEEE Keywords
+190,Noise measurement,IEEE Keywords
+191,Semantic segmentation,IEEE Keywords
+192,Clinical staging of liver cancer (CSoLC),Author Keywords
+193,Chinese radiology reports,Author Keywords
+194,domain knowledge,Author Keywords
+195,Radiology,IEEE Keywords
+196,Liver cancer,IEEE Keywords
+197,Cancer,IEEE Keywords
+198,Liver,IEEE Keywords
+199,Lesions,IEEE Keywords
+200,Sensitivity,IEEE Keywords
+201,Magnetic resonance imaging,IEEE Keywords
+202,Cybersecurity,Author Keywords
+203,insider threat,Author Keywords
+204,deep learning,Author Keywords
+205,transformer,Author Keywords
+206,BERT,Author Keywords
+207,RoBERTa,Author Keywords
+208,XLNet,Author Keywords
+209,DistilBERT,Author Keywords
+210,GPT,Author Keywords
+211,data augmentation,Author Keywords
+212,artificial intelligence,Author Keywords
+213,Pre-trained LLM,Author Keywords
+214,PETuning,Author Keywords
+215,Adapter,Author Keywords
+216,LoRA,Author Keywords
+217,BitFit,Author Keywords
+218,NLP,Author Keywords
+219,Threat assessment,IEEE Keywords
+220,Tuning,IEEE Keywords
+221,Organizations,IEEE Keywords
+222,Transfer learning,IEEE Keywords
+223,Deep learning,IEEE Keywords
+224,Computer security,IEEE Keywords
+225,Data augmentation,IEEE Keywords
+226,Hardware Security,Author Keywords
+227,SoC Security Verification,Author Keywords
+228,Hardware Vulnerability,Author Keywords
+229,Hardware security,IEEE Keywords
+230,System-on-chip,IEEE Keywords
+231,Logical anomaly detection,Author Keywords
+232,industrial anomaly detection,Author Keywords
+233,dataset annotation,Author Keywords
+234,Anomaly detection,IEEE Keywords
+235,Image reconstruction,IEEE Keywords
+236,Stroke,Author Keywords
+237,Irregularly spaced time-series data,Author Keywords
+238,Multi-dimensional data,Author Keywords
+239,Cohort analysis,Author Keywords
+240,Large language odels,Author Keywords
+131,Visual analytics,IEEE Keywords
+241,Stroke (medical condition),IEEE Keywords
+242,Cognitive load,IEEE Keywords
+243,Electronic mail,IEEE Keywords
+244,Fact-checking,Author Keywords
+245,Fuzzy Inference System,Author Keywords
+246,Deep Neuro-Fuzzy System,Author Keywords
+247,Fuzzy systems,IEEE Keywords
+248,Fuzzy logic,IEEE Keywords
+106,Visualization,Author Keywords
+249,Graphical Perception,Author Keywords
+250,Bars,IEEE Keywords
+251,Layout,IEEE Keywords
+252,Affordances,IEEE Keywords
+253,Companies,IEEE Keywords
+254,Sports visualization,Author Keywords
+255,tactic board,Author Keywords
+256,tactical analysis,Author Keywords
+257,Sports,IEEE Keywords
+258,Videos,IEEE Keywords
+259,Interviews,IEEE Keywords
+260,Games,IEEE Keywords
+261,Software Vulnerability Analysis,Author Keywords
+262,Software,IEEE Keywords
+263,Software quality,IEEE Keywords
+264,Source coding,IEEE Keywords
+265,Software systems,IEEE Keywords
+266,Software engineering,IEEE Keywords
+267,Nickel,IEEE Keywords
+268,multimodal AI,Author Keywords
+269,physics-informed AI,Author Keywords
+270,power electronics (PE) design,Author Keywords
+271,power converter design,Author Keywords
+272,Modulation,IEEE Keywords
+273,Knowledge based systems,IEEE Keywords
+274,Metaheuristics,IEEE Keywords
+275,Power electronics,IEEE Keywords
+276,Physics,IEEE Keywords
+277,IAI,Author Keywords
+278,networking,Author Keywords
+279,pluggable LLM module,Author Keywords
+280,AGI,Author Keywords
+281,RAG,Author Keywords
+282,problem formulation,Author Keywords
+283,Prediction algorithms,IEEE Keywords
+284,Satellite communications,Author Keywords
+285,generative AI agent,Author Keywords
+286,MoE,Author Keywords
+287,PPO,Author Keywords
+288,network design,Author Keywords
+16,Generative AI,IEEE Keywords
+289,Satellites,IEEE Keywords
+290,Low earth orbit satellites,IEEE Keywords
+291,Mathematical models,IEEE Keywords
+292,Resource management,IEEE Keywords
+293,Distributed computing,Author Keywords
+294,embedded system,Author Keywords
+295,message passing interface (MPI),Author Keywords
+296,neural networks,Author Keywords
+297,Routing,IEEE Keywords
+298,Synchronization,IEEE Keywords
+299,Hybrid prompt learning,Author Keywords
+300,multi-type Li-ion batteries,Author Keywords
+301,state-of-charge estimation,Author Keywords
+302,Estimation,IEEE Keywords
+303,State of charge,IEEE Keywords
+304,Temperature measurement,IEEE Keywords
+305,Robustness,IEEE Keywords
+306,Mobile handsets,IEEE Keywords
+307,Grounding,IEEE Keywords
+308,agent collaboration,Author Keywords
+309,smart contract,Author Keywords
+310,blockchain,Author Keywords
+311,decentralized autonomous,Author Keywords
+312,Smart contracts,IEEE Keywords
+313,Blockchains,IEEE Keywords
+314,Probability,IEEE Keywords
+315,System analysis and design,IEEE Keywords
+316,Supply chain management,IEEE Keywords
+317,Visual Analytics for Machine Learning,Author Keywords
+318,Artificial Intelligence Security,Author Keywords
+319,Text Visualization,Author Keywords
+320,Toxicology,IEEE Keywords
+321,Safety,IEEE Keywords
+322,Statistical learning,IEEE Keywords
+323,Intelligent systems,IEEE Keywords
+324,Graph Neural Networks,Author Keywords
+325,Natural Language Processing,Author Keywords
+326,Graph Representation Learning,Author Keywords
+327,Graph neural networks,IEEE Keywords
+328,Bidirectional control,IEEE Keywords
+329,Network health assessment,Author Keywords
+330,Network performance optimization,Author Keywords
+331,Fault diagnosis,IEEE Keywords
+332,Protection,IEEE Keywords
+333,Long short term memory,IEEE Keywords
+334,Visualization literacy,Author Keywords
+335,visual communication,Author Keywords
+336,Visual communication,IEEE Keywords
+337,Channel estimation,IEEE Keywords
+338,Receivers,IEEE Keywords
+339,Bandwidth,IEEE Keywords
+340,Decoding,IEEE Keywords
+341,Graphics processing units,IEEE Keywords
+342,Autonomous networks,IEEE Keywords
+343,Prompt engineering,IEEE Keywords
+344,Generators,IEEE Keywords
+345,generative ai,Author Keywords
+346,multi-agent,Author Keywords
+347,reinforcement learning,Author Keywords
+348,semantic communication,Author Keywords
+349,Data mining,IEEE Keywords
+350,Data communication,IEEE Keywords
+351,Multi-agent systems,IEEE Keywords
+352,Generative adversarial networks,IEEE Keywords
+353,Large Language Models (LLMs),Author Keywords
+354,Search Engines,Author Keywords
+355,Learning-to-Rank (LTR),Author Keywords
+356,and Retrieve-Augmented Generation (RAG),Author Keywords
+357,Search engines,IEEE Keywords
+358,Service computing,IEEE Keywords
+359,Indexing,IEEE Keywords
+360,Intentdriven Networking,Author Keywords
+361,Network Intelligence,Author Keywords
+362,memristor crossbar,Author Keywords
+363,model deployment,Author Keywords
+364,non-volatile memory,Author Keywords
+365,Memristors,IEEE Keywords
+366,Random access memory,IEEE Keywords
+367,Nonvolatile memory,IEEE Keywords
+368,Neural networks,IEEE Keywords
+369,Energy efficiency,IEEE Keywords
+370,Energy consumption,IEEE Keywords
+371,Transistors,IEEE Keywords
+372,Fake News,Author Keywords
+373,Misinformation Detection,Author Keywords
+374,Prompting Techniques,Author Keywords
+375,Rumour News,Author Keywords
+376,Sentiment and Emotion,Author Keywords
+377,Fake news,IEEE Keywords
+378,Linguistics,IEEE Keywords
+379,Blogs,IEEE Keywords
+380,pre-training model,Author Keywords
+381,intrusion detection system,Author Keywords
+382,internet of vehicle,Author Keywords
+383,Telecommunication traffic,IEEE Keywords
+377,Fake news,Author Keywords
+384,Fake news detection,Author Keywords
+385,Large language models (LLMs),Author Keywords
+386,Voting,IEEE Keywords
+387,Reviews,IEEE Keywords
+388,Moon,IEEE Keywords
+389,History,IEEE Keywords
+390,Ambiguity,Author Keywords
+391,Completeness,Author Keywords
+392,Inconsistency,Author Keywords
+393,Requirements Engineering,Author Keywords
+394,Software Engineering,Author Keywords
+395,Software Requirements Specifications (SRS),Author Keywords
+396,Stakeholders,IEEE Keywords
+397,Requirements engineering,IEEE Keywords
+398,Defect detection,IEEE Keywords
+399,Software development management,IEEE Keywords
+400,IATS,Author Keywords
+401,large-scale traffic flow prediction,Author Keywords
+402,edge computing,Author Keywords
+403,Roads,IEEE Keywords
+404,network optimization,Author Keywords
+405,combinatorial optimization,Author Keywords
+406,access point placement,Author Keywords
+407,Solid modeling,IEEE Keywords
+408,Wireless networks,IEEE Keywords
+409,Ray tracing,IEEE Keywords
+410,Floors,IEEE Keywords
+411,Cyber-attack detection,Author Keywords
+412,Volt/VAR control,Author Keywords
+413,Text security,Author Keywords
+414,Distribution network,Author Keywords
+415,Cyberattack,IEEE Keywords
+416,Inverters,IEEE Keywords
+417,Electric potential,IEEE Keywords
+418,Voltage control,IEEE Keywords
+419,Standards,IEEE Keywords
+420,Drug-Target Interactions (DTIs),Author Keywords
+421,Deep Learning (DL),Author Keywords
+422,protein language model,Author Keywords
+423,drug features fusion,Author Keywords
+424,Bacteria,IEEE Keywords
+425,Archaea,IEEE Keywords
+426,Viruses (medical),IEEE Keywords
+427,Fungi,IEEE Keywords
+428,Proteins,IEEE Keywords
+429,Drugs,IEEE Keywords
+430,Atomic measurements,IEEE Keywords
+431,Industries,IEEE Keywords
+432,Disinformation,Author Keywords
+433,Computational Social Sciences,Author Keywords
+434,Hallucinations in LLMs,Author Keywords
+435,Information integrity,IEEE Keywords
+436,Navigation,IEEE Keywords
+437,Market research,IEEE Keywords
+438,Social sciences,IEEE Keywords
+439,Communication systems,IEEE Keywords
+440,Production,IEEE Keywords
+441,Ethics,IEEE Keywords
+442,Text visualization,Author Keywords
+443,sensemaking,Author Keywords
+444,hypergraph,Author Keywords
+445,hierarchical clusters,Author Keywords
+446,corpus analysis,Author Keywords
+447,Intelligent agents,IEEE Keywords
+448,Tag clouds,IEEE Keywords
+449,Human-AI interactions,Author Keywords
+450,knowledge graph,Author Keywords
+451,conversational agent,Author Keywords
+452,progressive visualization,Author Keywords
+453,Knowledge graphs,IEEE Keywords
+454,Alzheimer's disease,IEEE Keywords
+455,Edge-Cloud Synergy AI,Author Keywords
+456,Lifelong Learning,Author Keywords
+457,Internet of Things (IoT),Author Keywords
+458,Artificial Intelligence of Things (AIoT),Author Keywords
+459,Cloud computing,IEEE Keywords
+460,Flaky Tests,Author Keywords
+461,Fix Category,Author Keywords
+462,Test Repair,Author Keywords
+463,Code Models,Author Keywords
+464,Few Shot Learning,Author Keywords
+465,Software Testing,Author Keywords
+466,Maintenance engineering,IEEE Keywords
+467,Java,IEEE Keywords
+468,Few shot learning,IEEE Keywords
+469,Semantic communication,Author Keywords
+470,multimodal fusion,Author Keywords
+471,robust reconstruction,Author Keywords
+472,Signal to noise ratio,IEEE Keywords
+473,Artificial neural networks,Author Keywords
+474,irregular time series classification,Author Keywords
+475,pre-trained language models,Author Keywords
+476,time series classification,Author Keywords
+477,Time series analysis,IEEE Keywords
+473,Artificial neural networks,IEEE Keywords
+478,Classification algorithms,IEEE Keywords
+479,Embedded Visualization,Author Keywords
+480,Narrative and storytelling,Author Keywords
+481,Basketball tactic,Author Keywords
+482,Question-answering (QA) system,Author Keywords
+483,Fans,IEEE Keywords
+484,Prevention and mitigation,IEEE Keywords
+485,Prototypes,IEEE Keywords
+486,Risk mitigation,IEEE Keywords
+487,vehicular honeypot,Author Keywords
+488,dynamic contract theory,Author Keywords
+489,privacy-preserving,Author Keywords
+490,incentive mechanism,Author Keywords
+491,Contracts,IEEE Keywords
+492,Visualization Recommendation,Author Keywords
+493,Best practices,IEEE Keywords
+494,Training data,IEEE Keywords
+495,Code generation,Author Keywords
+496,code security,Author Keywords
+497,CWE,Author Keywords
+498,prompt engineering,Author Keywords
+499,vulnerability,Author Keywords
+500,Computational intelligence,IEEE Keywords
+501,evidence-based medicine,Author Keywords
+502,clinical NLP,Author Keywords
+343,Prompt engineering,Author Keywords
+503,Sleep,IEEE Keywords
+504,Diseases,IEEE Keywords
+505,register-transfer level,Author Keywords
+506,timing analysis,Author Keywords
+507,power modeling,Author Keywords
+508,Timing,IEEE Keywords
+509,Logic gates,IEEE Keywords
+510,Ethereum Smart Contracts,Author Keywords
+511,Multi-Class Imbalance,Author Keywords
+512,Multi-Class Classification,Author Keywords
+513,Smart Contract Vulnerability,Author Keywords
+514,Solidity Code,Author Keywords
+515,QLoRA,Author Keywords
+516,Deep Learning,Author Keywords
+517,Repeatability,Author Keywords
+518,Foundation Models,Author Keywords
+519,Fine-tuning,Author Keywords
+520,Reproducibility of results,IEEE Keywords
+521,LoRa,IEEE Keywords
+522,phishing sites,Author Keywords
+523,social engineering,Author Keywords
+524,Phishing,IEEE Keywords
+525,Uniform resource locators,IEEE Keywords
+526,Crawlers,IEEE Keywords
+527,Web pages,IEEE Keywords
+528,Visualization Literacy,Author Keywords
+529,Natural Language,Author Keywords
+530,Attention,Author Keywords
+531,games,Author Keywords
+532,generative models,Author Keywords
+533,procedural content generation,Author Keywords
+534,visual analytics,Author Keywords
+535,Fine-tuned large language model,Author Keywords
+536,visualization system,Author Keywords
+537,self-regulated learning,Author Keywords
+538,intelligent tutorial system,Author Keywords
+539,Tutorials,IEEE Keywords
+540,Multimodal Large Language Models,Author Keywords
+541,VisualLanguage Learning,Author Keywords
+542,Interactive Perception Network,Author Keywords
+543,Conversational crowdsensing,Author Keywords
+544,crowdsensing intelligence (CSI),Author Keywords
+545,Industry 5.0,Author Keywords
+546,parallel intelligence,Author Keywords
+547,retrieval augmented generation (RAG),Author Keywords
+548,Crowdsensing,IEEE Keywords
+549,Robot sensing systems,IEEE Keywords
+550,Fifth Industrial Revolution,IEEE Keywords
+551,Aerospace electronics,IEEE Keywords
+552,Distribution system state estimation,Author Keywords
+553,forecasting,Author Keywords
+554,multi-task learning,Author Keywords
+555,State estimation,IEEE Keywords
+556,Voltage measurement,IEEE Keywords
+557,Distribution networks,IEEE Keywords
+558,Power measurement,IEEE Keywords
+559,Topology,IEEE Keywords
+560,Real-time systems,IEEE Keywords
+561,Commit Message Generation,Author Keywords
+562,Empirical Study,Author Keywords
+563,In-Context Learning,Author Keywords
+564,Systematics,IEEE Keywords
+565,Sensor data synthesis,Author Keywords
+566,knowledge transfer,Author Keywords
+567,Diffusion Model,Author Keywords
+568,Reinforcement Learning,Author Keywords
+569,Sensor phenomena and characterization,IEEE Keywords
+570,Synthetic data,IEEE Keywords
+571,Knowledge transfer,IEEE Keywords
+572,Chart-question answering,Author Keywords
+573,multimodal large language models,Author Keywords
+574,benchmark,Author Keywords
+575,AI-Enabled Robotics,Author Keywords
+576,Human-Centered Robotics,Author Keywords
+577,Service Robotics,Author Keywords
+578,Datasets for Human Motion,Author Keywords
+579,Modeling and Simulating Humans,Author Keywords
+580,Probabilistic logic,IEEE Keywords
+581,Three-dimensional displays,IEEE Keywords
+582,Indoor environment,IEEE Keywords
+583,Service robots,IEEE Keywords
+584,Legged locomotion,IEEE Keywords
+585,text summarization,Author Keywords
+586,human-computer interaction,Author Keywords
+587,dimensionality reduction,Author Keywords
+588,Text summarization,IEEE Keywords
+589,Natural language generation,IEEE Keywords
+590,Hesitant fuzzy linguistic term sets,Author Keywords
+591,multi attributes decision making,Author Keywords
+592,natural language models,Author Keywords
+593,regret theory,Author Keywords
+594,semantically aware weights,Author Keywords
+595,semantic textual similarity,Author Keywords
+596,AI,Author Keywords
+597,genai,Author Keywords
+598,roles,Author Keywords
+599,SDLC,Author Keywords
+600,skills,Author Keywords
+601,software personas,Author Keywords
+602,Business,IEEE Keywords
+603,DevOps,IEEE Keywords
+604,Software algorithms,IEEE Keywords
+605,Cloud,Author Keywords
+606,DevSecOps,Author Keywords
+607,metrics,Author Keywords
+608,microservices,Author Keywords
+609,web,Author Keywords
+610,Microservice architectures,IEEE Keywords
+611,Programmable Network,Author Keywords
+612,Self-driving Network,Author Keywords
+613,Network Control,Author Keywords
+614,Switches,IEEE Keywords
+615,Telemetry,IEEE Keywords
+616,Network architecture,IEEE Keywords
+617,Fabrics,IEEE Keywords
+618,Blockchain,Author Keywords
+619,storage optimization,Author Keywords
+620,locally repairable code,Author Keywords
+621,node selection and allocation,Author Keywords
+622,group coding exchange,Author Keywords
+623,Metaverse,Author Keywords
+624,Edge Outsourced Computation,Author Keywords
+625,Privacy-Preserving Computation,Author Keywords
+623,Metaverse,IEEE Keywords
+626,Federated learning,Author Keywords
+627,privacy protection,Author Keywords
+628,knowledge-sharing,Author Keywords
+629,agriculture IoT,Author Keywords
+626,Federated learning,IEEE Keywords
+630,Edge computing (EC),Author Keywords
+631,Industrial Internet-ofThings (IIoT),Author Keywords
+632,storage,Author Keywords
+633,Industrial Internet of Things,IEEE Keywords
+634,Peer-to-peer computing,IEEE Keywords
+635,Throughput,IEEE Keywords
+636,Edge computing,IEEE Keywords
+637,Mobile crowdsourcing,Author Keywords
+638,privacy preserving,Author Keywords
+639,reputation management,Author Keywords
+640,multi-armed bandit,Author Keywords
+641,Recruitment,IEEE Keywords
+642,Blockchain technology,Author Keywords
+643,Online retail,Author Keywords
+316,Supply chain management,Author Keywords
+644,Consumer perceptions,Author Keywords
+645,Managerial decision making,Author Keywords
+646,Supply chains,IEEE Keywords
+647,Carbon,IEEE Keywords
+648,Sustainable development,IEEE Keywords
+649,Data Privacy,Author Keywords
+23,Internet of Things,Author Keywords
+650,Sound collection,Author Keywords
+651,and Blockchain,Author Keywords
+652,Metadata,IEEE Keywords
+653,blockchain scalability,Author Keywords
+654,blockchain performance,Author Keywords
+655,distributed ledger technologies,Author Keywords
+656,neural networks (NNs) and machine learning (ML),Author Keywords
+657,self-adaptive systems,Author Keywords
+658,Cryptocurrency,IEEE Keywords
+659,Open source software,IEEE Keywords
+660,Nonfungible tokens,IEEE Keywords
+661,Consensus protocol,IEEE Keywords
+662,Wireless blockchain network,Author Keywords
+663,PBFT consensus,Author Keywords
+664,RAFT consensus,Author Keywords
+665,symbiotic radio,Author Keywords
+666,cognitive backscatter communication,Author Keywords
+667,Backscatter,IEEE Keywords
+668,Fault tolerant systems,IEEE Keywords
+669,Fault tolerance,IEEE Keywords
+670,Symbiosis,IEEE Keywords
+671,Laboratories,IEEE Keywords
+672,Sun,IEEE Keywords
+673,Hashing,Author Keywords
+674,Hashing Function,Author Keywords
+675,Hashing Key,Author Keywords
+676,Blockchain Optimization,Author Keywords
+677,Supply chain Framework,Author Keywords
+678,Supply chain Lead Time,Author Keywords
+679,Encryption,IEEE Keywords
+680,Hash functions,IEEE Keywords
+681,Optical fibers,IEEE Keywords
+682,Optical fiber networks,IEEE Keywords
+683,Graph computing,Author Keywords
+684,bipartite graph,Author Keywords
+685,maximal biclique enumeration,Author Keywords
+686,Bipartite graph,IEEE Keywords
+687,Computers,IEEE Keywords
+688,Scalability,IEEE Keywords
+689,Electronic commerce,IEEE Keywords
+690,Data security,IEEE Keywords
+691,e-healthcare services,Author Keywords
+692,medical data collaborative training,Author Keywords
+693,homomorphic encryption,Author Keywords
+292,Resource management,Author Keywords
+694,Game theory,Author Keywords
+695,Demand for resources,Author Keywords
+694,Game theory,IEEE Keywords
+696,Finance,IEEE Keywords
+697,Plagiarism,IEEE Keywords
+698,Decentralized applications,IEEE Keywords
+699,Generative Artificial Intelligence,Author Keywords
+700,Variational Autoencoder,Author Keywords
+701,Generative Adversarial Network,Author Keywords
+702,Generative Diffusion Model,Author Keywords
+703,Direct Acyclic Graph,Author Keywords
+704,Sharding,Author Keywords
+705,Interoperability,Author Keywords
+706,Isolatability,Author Keywords
+688,Scalability,Author Keywords
+707,Consensus algorithm,IEEE Keywords
+705,Interoperability,IEEE Keywords
+708,Resists,IEEE Keywords
+709,Resistance,IEEE Keywords
+710,Blockchain Trilemma,Author Keywords
+711,Horizontal Scaling,Author Keywords
+712,Time-beacon,Author Keywords
+713,Bitcoin,IEEE Keywords
+714,Payment Channel,Author Keywords
+715,Rebalance,Author Keywords
+716,Non-Cycle,Author Keywords
+717,Privacy-Preserving,Author Keywords
+718,Germanium,IEEE Keywords
+719,AIoT,Author Keywords
+720,trust management,Author Keywords
+721,TMCSS,Author Keywords
+722,Malicious,Author Keywords
+723,Sustainability,Author Keywords
+724,vehicular,Author Keywords
+725,proof of work,Author Keywords
+726,Trust management,IEEE Keywords
+727,Malware,IEEE Keywords
+713,Bitcoin,Author Keywords
+728,Ethereum,Author Keywords
+145,Security,Author Keywords
+50,Image segmentation,Author Keywords
+729,Similarity matching,Author Keywords
+730,Classification,Author Keywords
+731,Cosine similarity,Author Keywords
+732,Image Processing,Author Keywords
+733,Pattern recognition,IEEE Keywords
+734,Pattern matching,IEEE Keywords
+707,Consensus algorithm,Author Keywords
+735,Reputation-based leader selection,Author Keywords
+736,Louvain Modularity Optimization,Author Keywords
+737,Hybrid consensus,Author Keywords
+738,Consumer electronics,IEEE Keywords
+739,Information fusion,Author Keywords
+740,Heterogeneous database,Author Keywords
+741,6G communications,Author Keywords
+742,Evidence theory,Author Keywords
+743,Data integration,IEEE Keywords
+744,Data analysis,IEEE Keywords
+745,Accounts Receivable Financing,Author Keywords
+746,Financing Equilibrium,Author Keywords
+747,Interest Coordination,Author Keywords
+748,Supply Chain Finance,Author Keywords
+749,Financial management,IEEE Keywords
+750,Blockchain Rewriting,Author Keywords
+751,Chameleon Hash,Author Keywords
+752,Message Control,Author Keywords
+753,Public key,IEEE Keywords
+754,Regulators,IEEE Keywords
+755,Stress,IEEE Keywords
+756,peer-to-peer network,Author Keywords
+757,complex network,Author Keywords
+758,IoV,Author Keywords
+759,Schnorr threshold signature,Author Keywords
+760,chameleon hash,Author Keywords
+761,redactable blockchain,Author Keywords
+762,Big Data,IEEE Keywords
+763,Vehicular ad hoc networks,IEEE Keywords
+151,Internet of Vehicles,IEEE Keywords
+764,smart cities,Author Keywords
+765,deep reinforcement learning (DRL),Author Keywords
+766,sharding strategy,Author Keywords
+704,Sharding,IEEE Keywords
+767,Smart cities,IEEE Keywords
+768,Smart Irrigation,Author Keywords
+769,Decentralized Federated Learning,Author Keywords
+770,Long-Short Term Memory,Author Keywords
+771,Irrigation,IEEE Keywords
+772,Contract Theory,Author Keywords
+773,Mobile Edge Computing,Author Keywords
+774,Mining Pool,Author Keywords
+775,Incentive Mechanism,Author Keywords
+776,Industrial Internet of Things (IIoT),Author Keywords
+777,Overlapping Sharding,Author Keywords
+778,Statistics,IEEE Keywords
+779,Sociology,IEEE Keywords
+780,cross-domain authentication,Author Keywords
+781,dynamic,Author Keywords
+782,parallelization,Author Keywords
+783,efficiency improvement,Author Keywords
+784,Authentication,IEEE Keywords
+785,Information sharing,IEEE Keywords
+786,Auditable decentralized federated learning (DFL),Author Keywords
+787,DFL,Author Keywords
+788,multisignature,Author Keywords
+789,verifiable DFL,Author Keywords
+790,decentralized autonomous organization (DAO),Author Keywords
+791,familiarity,Author Keywords
+792,granular computing (GrC),Author Keywords
+793,order tracking,Author Keywords
+794,social manufacturing,Author Keywords
+795,Manufacturing,IEEE Keywords
+796,Granular computing,IEEE Keywords
+797,Decentralized autonomous organization,IEEE Keywords
+798,clustering,Author Keywords
+799,data transmission strategy,Author Keywords
+800,Anti-Eavesdropping,Author Keywords
+801,informational masking,Author Keywords
+802,privacy,Author Keywords
+803,Noise,IEEE Keywords
+804,Microphones,IEEE Keywords
+805,Recording,IEEE Keywords
+806,Jamming,IEEE Keywords
+807,Noise reduction,IEEE Keywords
+808,Speech enhancement,IEEE Keywords
+809,Attention mechanisms,IEEE Keywords
+810,Ultrasonic imaging,IEEE Keywords
+811,payment channel networks,Author Keywords
+812,rollups,Author Keywords
+813,Proposals,IEEE Keywords
+814,Lightning,IEEE Keywords
+815,Multi-UAV Cooperation,Author Keywords
+816,Resource Allocation,Author Keywords
+817,Multi-Access Edge Computing (MEC),Author Keywords
+818,Stochastic Optimization,Author Keywords
+819,Autonomous aerial vehicles,IEEE Keywords
+820,Blockchain Security,Author Keywords
+821,read-write conflict,Author Keywords
+822,Internet of Autonomous Vehicles,Author Keywords
+823,malware detection,Author Keywords
+824,image classification,Author Keywords
+825,anomaly detection,Author Keywords
+826,Gray-scale,IEEE Keywords
+827,Consensus mechanisms,Author Keywords
+828,Deep reinforcement learning,Author Keywords
+829,Resource sharing,Author Keywords
+830,6G networks,Author Keywords
+831,Blockchain Technology,Author Keywords
+832,Interior Construction,Author Keywords
+833,Sustainable Material Sourcing,Author Keywords
+834,Construction Management,Author Keywords
+835,Flowcharts,IEEE Keywords
+836,Technological innovation,IEEE Keywords
+837,Construction industry,IEEE Keywords
+838,Computation offloading,Author Keywords
+839,deep reinforcement learning,Author Keywords
+840,proximal policy optimization (PPO),Author Keywords
+841,improved practical Byzantine fault tolerance (IPBFT),Author Keywords
+842,Delays,IEEE Keywords
+784,Authentication,Author Keywords
+312,Smart contracts,Author Keywords
+843,Latency,Author Keywords
+88,Optimization,Author Keywords
+844,Intelligent sensors,IEEE Keywords
+845,Transportation,IEEE Keywords
+846,hybrid blockchain,Author Keywords
+847,quantum cryptography,Author Keywords
+848,supply chain,Author Keywords
+849,traceability,Author Keywords
+850,data authenticity,Author Keywords
+851,Fourth Industrial Revolution,IEEE Keywords
+852,Quantum computing,IEEE Keywords
+853,Data structures,IEEE Keywords
+854,Decentralized trust management,Author Keywords
+855,verifiable delay function,Author Keywords
+856,TEE,Author Keywords
+857,intelligent transportation systems,Author Keywords
+858,Intelligent transportation systems,IEEE Keywords
+859,Clustering algorithms,IEEE Keywords
+860,distributed query,Author Keywords
+861,lightweight client,Author Keywords
+862,Query processing,IEEE Keywords
+863,Smart Grid,Author Keywords
+864,Permissioned blockchain,Author Keywords
+865,Privacy-preserving,Author Keywords
+866,Range query,Author Keywords
+867,Smart grids,IEEE Keywords
+74,Homomorphic encryption,IEEE Keywords
+868,iterative double auction,Author Keywords
+869,manufacturing collaboration,Author Keywords
+870,production capacity matching,Author Keywords
+871,Iterative methods,IEEE Keywords
+872,Manufacturing industries,IEEE Keywords
+873,Tokenization,IEEE Keywords
+874,Smart manufacturing,IEEE Keywords
+875,Options contract,Author Keywords
+876,blockchains,Author Keywords
+877,adaptor signatures,Author Keywords
+878,secret sharing,Author Keywords
+879,Thyristors,IEEE Keywords
+880,Power capacitors,IEEE Keywords
+881,Graph Analysis,Author Keywords
+882,Money Flow Graph,Author Keywords
+883,decentralized applications,Author Keywords
+884,indexing,Author Keywords
+885,Writing,IEEE Keywords
+886,ring signature,Author Keywords
+887,linkability,Author Keywords
+888,k-times traceability,Author Keywords
+889,fine-grained accountability,Author Keywords
+890,energy hubs,Author Keywords
+891,energy management,Author Keywords
+892,integrated energy systems (IESs),Author Keywords
+893,peer-to-peer (P2P) trading,Author Keywords
+894,social governance,Author Keywords
+895,Renewable energy sources,IEEE Keywords
+896,Load modeling,IEEE Keywords
+738,Consumer electronics,Author Keywords
+897,Threshold Identity-Based ring signature,Author Keywords
+898,Join-Shamir-RSS,Author Keywords
+899,Identity abort,Author Keywords
+900,Polynomials,IEEE Keywords
+901,E-Healthcare,Author Keywords
+902,Internet of things,Author Keywords
+903,Access control of devices,Author Keywords
+904,Access control,IEEE Keywords
+905,IA,Author Keywords
+906,Intelligent Framework,Author Keywords
+907,Agriculture,IEEE Keywords
+908,Farming,IEEE Keywords
+909,Meteorology,IEEE Keywords
+910,Crops,IEEE Keywords
+911,demand response,Author Keywords
+912,consumer electronics,Author Keywords
+913,blockchain consensus,Author Keywords
+914,secure resource allocation,Author Keywords
+915,adaptive learning,Author Keywords
+916,security bound violation penalty,Author Keywords
+917,Demand response,IEEE Keywords
+918,Distributed Identity Authentication,Author Keywords
+919,Message Integrity Verification,Author Keywords
+920,Data Transmission Algorithm,Author Keywords
+921,Lattices,IEEE Keywords
+922,Artificial Intelligence of Things,Author Keywords
+923,Consumer Electronics,Author Keywords
+924,Fog Computing,Author Keywords
+925,Sharding Blockchain,Author Keywords
+926,Deep Reinforcement Learning,Author Keywords
+927,Mobile Crowdsensing,Author Keywords
+928,Privacy Preservation,Author Keywords
+929,fractional programming,Author Keywords
+930,semidefinite relaxation,Author Keywords
+931,resource allocation,Author Keywords
+932,trust-cost ratio,Author Keywords
+933,Hidden Markov models,IEEE Keywords
+934,Consensus Algorithm,Author Keywords
+935,Energy-efficient Consensus Mechanism,Author Keywords
+936,Formal Model Verification,Author Keywords
+937,Power Quality detection,Author Keywords
+938,Process Analysis Toolkit,Author Keywords
+939,Smart Contracts,Author Keywords
+940,Power quality,IEEE Keywords
+941,HVAC management system,Author Keywords
+942,model predictive control,Author Keywords
+943,long short-term memory,Author Keywords
+944,HVAC,IEEE Keywords
+945,Buildings,IEEE Keywords
+946,cross-chain transaction,Author Keywords
+947,payment channel,Author Keywords
+948,scalability,Author Keywords
+949,off-chain payment,Author Keywords
+950,Relays,IEEE Keywords
+951,Federated Learning,Author Keywords
+952,Cluster Training Efficiency,Author Keywords
+953,Convergence,IEEE Keywords
+954,Adaptive access,Author Keywords
+955,efficiency traceability,Author Keywords
+956,sharding blockchain,Author Keywords
+957,Data processing,IEEE Keywords
+958,Accidental damage detection,Author Keywords
+959,driver driving score,Author Keywords
+960,electric vehicular network,Author Keywords
+961,electric vehicle insurance,Author Keywords
+962,Insurance,IEEE Keywords
+963,Electric vehicles,IEEE Keywords
+964,Ancient state,Author Keywords
+965,LSM tree,Author Keywords
+966,segregation,Author Keywords
+967,Compaction,IEEE Keywords
+968,Engines,IEEE Keywords
+969,Performance analysis,IEEE Keywords
+970,Anti-money Laundering,Author Keywords
+971,Cost-sensitive Learning,Author Keywords
+972,Active Learning,Author Keywords
+973,cybercrime,Author Keywords
+974,cryptocurrency,Author Keywords
+975,money laundering,Author Keywords
+976,Dark Web,IEEE Keywords
+977,Computer crime,IEEE Keywords
+978,Mobile Crowd Sensing (MCS),Author Keywords
+979,task allocation,Author Keywords
+980,hybrid user selection,Author Keywords
+981,blockchain-based,Author Keywords
+982,Long Short-Term Memory (LSTM),Author Keywords
+983,semi-Markov,Author Keywords
+984,ready-mixed concrete supply chain,Author Keywords
+985,compliance inspection,Author Keywords
+986,Inspection,IEEE Keywords
+987,Concrete,IEEE Keywords
+988,Quality control,IEEE Keywords
+989,helathcare applications,Author Keywords
+990,access control and key agreement,Author Keywords
+991,Big Data analytics,Author Keywords
+992,security,Author Keywords
+993,Hospitals,IEEE Keywords
+994,Unmanned aerial vehicle (UAV) communication,Author Keywords
+995,mobile edge computing (MEC),Author Keywords
+996,trajectory optimization,Author Keywords
+997,carbon emission,Author Keywords
+998,Carbon dioxide,IEEE Keywords
+999,electric vehicles,Author Keywords
+1000,proximal policy optimization,Author Keywords
+1001,ant colony optimization,Author Keywords
+1002,Energy management,IEEE Keywords
+1003,Vehicle-to-grid,IEEE Keywords
+1004,Optimal scheduling,IEEE Keywords
+1005,Charging stations,IEEE Keywords
+1006,copyright management,Author Keywords
+1007,open-source software and hardware,Author Keywords
+1008,originality detection,Author Keywords
+1009,Licenses,IEEE Keywords
+1010,Copyright protection,IEEE Keywords
+1011,content retrieval,Author Keywords
+1012,named data networking (NDN),Author Keywords
+1013,privacy and trust,Author Keywords
+1014,vehicle-to-grid (V2G),Author Keywords
+1015,Zero-trust security,Author Keywords
+1016,healthcare communication network,Author Keywords
+1017,next-generation networking,Author Keywords
+1018,Next generation networking,IEEE Keywords
+1019,Telemedicine,IEEE Keywords
+1020,Communication,Author Keywords
+1021,5G,Author Keywords
+1022,Machine Learning,Author Keywords
+1023,Next-Generation,Author Keywords
+1024,LSTM,Author Keywords
+1025,5G mobile communication,IEEE Keywords
+1026,blockchain technology,Author Keywords
+1027,mobile device,Author Keywords
+1028,metamodel,Author Keywords
+1029,meta-modeling,Author Keywords
+1030,Smart phones,IEEE Keywords
+1031,Forensics,IEEE Keywords
+1032,Metamodeling,IEEE Keywords
+1033,deep learning (DL),Author Keywords
+1034,disease detection,Author Keywords
+1035,ensemble learning (EL),Author Keywords
+1036,machine learning (ML),Author Keywords
+1037,Diabetes,IEEE Keywords
+1038,Thyroid,IEEE Keywords
+1039,Kidney,IEEE Keywords
+1040,Heart,IEEE Keywords
+1041,Unmanned aerial vehicles (UAVs),Author Keywords
+1042,physical unclonable functions (PUF),Author Keywords
+1043,authentication,Author Keywords
+1044,Physical unclonable function,IEEE Keywords
+1045,Thermal sensors,IEEE Keywords
+1046,Block generation,Author Keywords
+1047,federated learning,Author Keywords
+1048,robustness,Author Keywords
+1049,Performance,Author Keywords
+1050,Decoupling,Author Keywords
+1051,Reputation Evaluation,Author Keywords
+1052,Differential privacy,Author Keywords
+1053,Reputation management,Author Keywords
+1054,5G internet of vehicles,Author Keywords
+1055,consortium blockchain,Author Keywords
+1056,crowdsourcing,Author Keywords
+1057,Crowdsourcing,IEEE Keywords
+1058,System performance,IEEE Keywords
+1059,vehicular digital forensics,Author Keywords
+1060,access control,Author Keywords
+1061,reputation value,Author Keywords
+1062,evidence,Author Keywords
+1063,Intelligent vehicles,IEEE Keywords
+1064,Unmanned aerial vehicles,Author Keywords
+904,Access control,Author Keywords
+1065,Consortium blockchain,Author Keywords
+1066,Data sharing,Author Keywords
+1067,Smart contract,Author Keywords
+867,Smart grids,Author Keywords
+618,Blockchain,IEEE Keywords
+1068,Privacy Protection,Author Keywords
+1069,Fair Payment,Author Keywords
+1070,Function Encryption,Author Keywords
+1071,Internet of Medical Things,Author Keywords
+1072,Intrusion Detection,Author Keywords
+1073,Tree Classifier,Author Keywords
+1071,Internet of Medical Things,IEEE Keywords
+1074,Quantum Computing,Author Keywords
+1075,Internet of Medical Things (IoMT),Author Keywords
+1076,Scyther tool,Author Keywords
+1077,Quantum-Sim,Author Keywords
+1078,indoor positioning,Author Keywords
+1079,information management,Author Keywords
+1080,Information management,IEEE Keywords
+1081,hierarchical game,Author Keywords
+1082,knowledge acquisition ecosystem,Author Keywords
+1083,Ecosystems,IEEE Keywords
+1084,Knowledge acquisition,IEEE Keywords
+1085,Ions,IEEE Keywords
+1086,SignSGD,Author Keywords
+1087,Efficiency,Author Keywords
+1088,collaborative edge computing,Author Keywords
+1089,resource optimization,Author Keywords
+1090,consensus mechanism,Author Keywords
+1091,formal methods,Author Keywords
+1092,Memory,IEEE Keywords
+1093,Sorting,IEEE Keywords
+1094,E-voting,Author Keywords
+1095,sharding,Author Keywords
+1096,time-lock puzzle,Author Keywords
+1097,Electronic voting,IEEE Keywords
+1098,Attribute-based encryption,Author Keywords
+1099,Attribute token,Author Keywords
+1100,multi-server,Author Keywords
+1101,quantum key distribution (QKD),Author Keywords
+1102,Elliptic curves,IEEE Keywords
+1103,Split Learning,Author Keywords
+1104,Client selection,Author Keywords
+1105,VANETs,Author Keywords
+1106,IPFS,Author Keywords
+1107,anonymity authentication,Author Keywords
+1108,information sharing,Author Keywords
+1109,zk-SNARK,Author Keywords
+1110,decentralized reputation management,Author Keywords
+1111,energy allocation,Author Keywords
+1112,Aviation Internet of Things (AIoT),Author Keywords
+1113,federated knowledge distillation (FKD),Author Keywords
+1114,federated score grouping practical Byzantine fault-tolerant (FSGPBFT),Author Keywords
+1115,Resilience,IEEE Keywords
+1116,Multi-Signature,Author Keywords
+1117,Identification,Author Keywords
+1118,Lattice,Author Keywords
+1119,Random Oracle,Author Keywords
+1120,Indexes,IEEE Keywords
+1121,Modules (abstract algebra),IEEE Keywords
+1122,Consumer Internet of Things,Author Keywords
+1123,zero trust,Author Keywords
+1124,feder-ated learning,Author Keywords
+1125,Byzantine attacks,Author Keywords
+1126,Zero Trust,IEEE Keywords
+1127,graph theory,Author Keywords
+1128,off-chain payments,Author Keywords
+1129,Network topology,IEEE Keywords
+1130,Vehicle platoon,Author Keywords
+1131,cross trust-domain,Author Keywords
+1132,group authentication,Author Keywords
+1133,Web3,Author Keywords
+1134,decentralized identity (DID),Author Keywords
+1135,soulbound token (SBT),Author Keywords
+1136,digital twin,Author Keywords
+1137,Proof-of-Authenticity (PoA),Author Keywords
+1138,Digital twins,IEEE Keywords
+1139,Humanities,IEEE Keywords
+1140,carbon emissions verification,Author Keywords
+1141,game theory,Author Keywords
+1142,Carbon emissions,IEEE Keywords
+1143,Incentive schemes,IEEE Keywords
+1144,Climate change,IEEE Keywords
+1145,Carbon neutral,IEEE Keywords
+1146,Emissions trading,IEEE Keywords
+1147,Nash equilibrium,IEEE Keywords
+1148,Environmental monitoring,IEEE Keywords
+1149,Conformance testing,IEEE Keywords
+1150,MEC,Author Keywords
+1151,SDN,Author Keywords
+1152,security policy deployment,Author Keywords
+1153,Network security,IEEE Keywords
+1154,Firewalls (computing),IEEE Keywords
+1155,SIoVs,Author Keywords
+1156,Conditional privacy,Author Keywords
+1157,Smartphone Security,Author Keywords
+1158,Smartphone lock,Author Keywords
+1159,User authentication,Author Keywords
+1160,Touch movement,Author Keywords
+1161,Touch sensitive screens,IEEE Keywords
+1162,Heart beat,IEEE Keywords
+1163,Electric Vehicles,Author Keywords
+1164,EV charging,Author Keywords
+1165,Prediction,Author Keywords
+1166,Bidirectional LSTM,Author Keywords
+1167,Load forecasting,IEEE Keywords
+1168,Health Data,Author Keywords
+1169,Multi-Attribute Sketch,Author Keywords
+1170,CP-ABE,Author Keywords
+1171,Secure Data Sharing,Author Keywords
+1172,Medical devices,IEEE Keywords
+1173,Wearable devices,IEEE Keywords
+1174,privacy security,Author Keywords
+1175,differential privacy,Author Keywords
+1176,storage cost,Author Keywords
+1177,query cost,Author Keywords
+1178,social tie,Author Keywords
+1179,AEAD,Author Keywords
+1180,authenticated hidden text,Author Keywords
+1181,covert channels,Author Keywords
+1182,ethereum,Author Keywords
+1183,steganography,Author Keywords
+1184,Steganography,IEEE Keywords
+1185,smart contracts,Author Keywords
+1186,supplier performance evaluation,Author Keywords
+1187,supplier selection,Author Keywords
+1188,supply chain management,Author Keywords
+1189,online purchasing platform,Author Keywords
+1190,transparency,Author Keywords
+1191,InterPlanetary File System,IEEE Keywords
+1192,Procurement,IEEE Keywords
+1193,Scholarship management,Author Keywords
+1194,zero-knowledge,Author Keywords
+1195,zk-rollup,Author Keywords
+1196,Scholarships,IEEE Keywords
+1197,Qualifications,IEEE Keywords
+1198,Access Control,Author Keywords
+1199,Anonymous Authentication,Author Keywords
+1200,Electric Vehicle,Author Keywords
+1201,Urban areas,IEEE Keywords
+1202,Healthcare IoT,Author Keywords
+1203,Data Sharing,Author Keywords
+1204,Homomorphic Encryption,Author Keywords
+1205,Information filters,IEEE Keywords
+1206,proxy re-encryption,Author Keywords
+1207,fair data trading,Author Keywords
+1208,verifiable commitment,Author Keywords
+1209,consensus,Author Keywords
+1210,message dissemination,Author Keywords
+1211,smart device,Author Keywords
+1212,Unspent transaction output,Author Keywords
+1213,central bank digital currency,Author Keywords
+1214,lightweight zero-knowledge proof,Author Keywords
+1215,decentralized identifier,Author Keywords
+1216,elliptic curve cryptography,Author Keywords
+1217,Distributed ledger,IEEE Keywords
+1218,Elliptic curve cryptography,IEEE Keywords
+1219,air traffic management,Author Keywords
+1220,identity authentication,Author Keywords
+1221,security authentication,Author Keywords
+1222,Air traffic control,IEEE Keywords
+1223,alternating robust-game procedure,Author Keywords
+1224,individual microgrid robust-game bidding-dispatching model,Author Keywords
+1225,MMS robust-game model,Author Keywords
+1226,WPG uncertainty,Author Keywords
+1227,Microgrids,IEEE Keywords
+763,Vehicular ad hoc networks,Author Keywords
+1228,source authentication,Author Keywords
+1229,cloud computing,Author Keywords
+1230,anonymity,Author Keywords
+1231,C-V2X,Author Keywords
+1232,quantum attack,Author Keywords
+1233,key management,Author Keywords
+1234,Collaborative model learning,Author Keywords
+1235,Big data analytics,Author Keywords
+1052,Differential privacy,IEEE Keywords
+1236,UAV,Author Keywords
+1237,wireless networks,Author Keywords
+1238,distributed system,Author Keywords
+1239,reorganization,Author Keywords
+1240,COVID-19,Author Keywords
+1241,Chest X-ray,Author Keywords
+1240,COVID-19,IEEE Keywords
+1242,X-ray imaging,IEEE Keywords
+1243,Respiratory system,IEEE Keywords
+1244,Big data security and privacy,Author Keywords
+1245,role-adaptive incentive mechanism,Author Keywords
+1246,storage scalability,Author Keywords
+1247,DAG,Author Keywords
+1248,lightweight consensus,Author Keywords
+1249,large-scale nodes,Author Keywords
+1250,Digital Twins,Author Keywords
+1251,Data Integrity,Author Keywords
+1252,Supply Chain,Author Keywords
+1253,Warranties,IEEE Keywords
+1254,Federated learning (FL),Author Keywords
+1255,Internet of Vehicles (IoV),Author Keywords
+1256,Large models (LMs),Author Keywords
+1257,Reputation,Author Keywords
+1258,"Security,",Author Keywords
+1259,Enhance External Intrusion Detection,Author Keywords
+1260,Smart Farming,Author Keywords
+1261,and Security,Author Keywords
+1262,Smart agriculture,IEEE Keywords
+1263,Intrusion detection,IEEE Keywords
+1264,Cognitive radio networks,Author Keywords
+1265,SSDF,Author Keywords
+1266,PoR,Author Keywords
+1267,Gaussian distribution,IEEE Keywords
+1268,Automotive engineering,IEEE Keywords
+1269,Weapons,IEEE Keywords
+1270,wireless sensor networks,Author Keywords
+1271,age of information,Author Keywords
+1272,Data integrity,IEEE Keywords
+1273,Communication system security,IEEE Keywords
+1274,Decision tree (DT),Author Keywords
+1275,interpretable deep learning,Author Keywords
+1276,neural DT (NDT),Author Keywords
+1277,neural network (NN),Author Keywords
+1278,neural tree (NT),Author Keywords
+1279,Neurons,IEEE Keywords
+1280,Entropy,IEEE Keywords
+1281,Taxonomy,IEEE Keywords
+1282,Decision trees,IEEE Keywords
+1283,"Cancer,driver genes",Author Keywords
+1284,protein-protein interaction,Author Keywords
+1285,"hypergraph,dynamic incentive model",Author Keywords
+1286,Pins,IEEE Keywords
+1287,Location awareness,IEEE Keywords
+1288,Multi-modal tracking,Author Keywords
+1289,RGB-T tracking,Author Keywords
+1290,top-down attention,Author Keywords
+1291,single-object tracking,Author Keywords
+1292,Target tracking,IEEE Keywords
+1293,Object Tracking,Author Keywords
+1294,RGB-T Tracking,Author Keywords
+1295,Vision-Language Tracking,Author Keywords
+1296,Automobiles,IEEE Keywords
+1297,Content authentication,Author Keywords
+1298,image hashing,Author Keywords
+1299,local tangent space alignment,Author Keywords
+1300,ScatNet,Author Keywords
+1301,content-changed sensitivity,Author Keywords
+1302,Shape,IEEE Keywords
+1303,Brightness,IEEE Keywords
+1304,Quaternions,IEEE Keywords
+1305,gradient leakage attack,Author Keywords
+1306,TV,IEEE Keywords
+1307,Renewable energy trading,Author Keywords
+1308,Stackelberg game,Author Keywords
+1309,information entropy,Author Keywords
+1310,low-carbon emissions,Author Keywords
+1311,Pricing,IEEE Keywords
+1312,AI-Generated Content (AIGC),Author Keywords
+1313,mobile computing,Author Keywords
+1314,quality -of- experience (QoE),Author Keywords
+1315,Quality of experience,IEEE Keywords
+1316,Hazards,IEEE Keywords
+1317,Mobile computing,IEEE Keywords
+1318,Security Service Management,Author Keywords
+1319,Cyber-Physical System Security,Author Keywords
+1320,Proof of Location,Author Keywords
+1321,Vehicle-to-everything,IEEE Keywords
+1322,Security management,IEEE Keywords
+1323,Biometrics,Author Keywords
+1324,Biometrics (access control),IEEE Keywords
+1325,Parking Space Search,Author Keywords
+1326,Vehicular ad-hoc Network (VANET),Author Keywords
+1327,Attribute-based Encryption,Author Keywords
+1328,Space vehicles,IEEE Keywords
+1329,Automated parking,IEEE Keywords
+1330,Electronic Healthcare Records,Author Keywords
+1331,Healthcare Management,Author Keywords
+1332,Key Authentication Policy,Author Keywords
+1333,Personal Healthcare Records,Author Keywords
+1334,Sensitive Terms,Author Keywords
+1335,Electronic medical records,IEEE Keywords
+1336,EdgeAI-Human-IoT,Author Keywords
+1337,RAFT,Author Keywords
+1338,Computer crashes,IEEE Keywords
+1339,Differential Privacy,Author Keywords
+1340,Zero Trust Securitys,Author Keywords
+1341,Application integrity,Author Keywords
+1342,Smart Contract,Author Keywords
+1343,Operating systems,IEEE Keywords
+1344,unmanned aerial vehicle (UAV),Author Keywords
+1345,resource pricing,Author Keywords
+1346,Stackelberg differential game,Author Keywords
+1347,fairness,Author Keywords
+1348,locality-sensitive hashing,Author Keywords
+1349,Privacy protection,Author Keywords
+1350,VANET,Author Keywords
+1351,convergence media,Author Keywords
+1352,group key,Author Keywords
+1353,public opinion analysis,Author Keywords
+1354,Sentiment analysis,IEEE Keywords
+1355,Authentication and key agreement,Author Keywords
+1356,full decentralization,Author Keywords
+1357,threshold,Author Keywords
+1358,Computational efficiency,IEEE Keywords
+1359,Forward and backward Security,Author Keywords
+1360,Revocable,Author Keywords
+1361,Systems architecture,IEEE Keywords
+1362,Symbols,IEEE Keywords
+1363,Cognitive internet of vehicles (CIoV),Author Keywords
+1364,stochastic evolutionary game,Author Keywords
+1365,spectrum sensing data falsification (SSDF) attack,Author Keywords
+1366,Stochastic processes,IEEE Keywords
+1367,Interference,IEEE Keywords
+858,Intelligent transportation systems,Author Keywords
+1368,proxy-oriented integrity checking,Author Keywords
+1369,Oils,IEEE Keywords
+1370,k-hop reachability query,Author Keywords
+1371,verifiable,Author Keywords
+1372,Social Internet of Things,IEEE Keywords
+1373,Data trading,Author Keywords
+1374,zero-knowledge proof,Author Keywords
+1375,attribute-based encryption,Author Keywords
+1376,Decision tree,Author Keywords
+1377,Bayesian network,Author Keywords
+1378,Soft computing,Author Keywords
+1379,Route recommendation,Author Keywords
+1380,Genetic algorithm,Author Keywords
+1381,Smart vehicles,Author Keywords
+1382,Native path planning,Author Keywords
+1383,Path planning,IEEE Keywords
+1384,Traffic congestion,IEEE Keywords
+1385,Mobile Crowd Sensing,Author Keywords
+1386,Data Privacy-Preserving service,Author Keywords
+1387,Reputation computing,Author Keywords
+1388,Truth data discovery,Author Keywords
+1389,Temperature sensors,IEEE Keywords
+1390,Consumer Electronic,Author Keywords
+1391,Autonomous Driving,Author Keywords
+35,Vehicles,Author Keywords
+1392,Malicious model detection,Author Keywords
+1393,Contribution evaluation,Author Keywords
+1394,Prosumer,Author Keywords
+1395,Consumer security,Author Keywords
+1396,Business scalability,Author Keywords
+1397,P2P markets,Author Keywords
+1398,decentralized implementation,Author Keywords
+1399,asynchronous market mechanism,Author Keywords
+1400,Power markets,IEEE Keywords
+1401,Electricity,IEEE Keywords
+1402,Vehicular edge computing networks,Author Keywords
+1403,task offloading,Author Keywords
+1404,content caching,Author Keywords
+1405,Handover,IEEE Keywords
+1406,Decentralized System,Author Keywords
+1407,Reentrancy Detection,Author Keywords
+1408,Symbolic Execution,Author Keywords
+1409,Path Pruning,Author Keywords
+1410,Extensibility,IEEE Keywords
+1411,Static analysis,IEEE Keywords
+1412,Web 3.0,Author Keywords
+1413,Fractal network,Author Keywords
+1414,Decentralized infrastructure and identity,Author Keywords
+1415,Polytope,Author Keywords
+1416,Semantic Web,IEEE Keywords
+1417,Fractals,IEEE Keywords
+1418,IP networks,IEEE Keywords
+1419,distributed ledger technology (DLT),Author Keywords
+1420,DAG-based architecture,Author Keywords
+1421,IOTA Tangle,Author Keywords
+1422,malicious data tracing,Author Keywords
+1423,throughput optimization,Author Keywords
+1424,latency analysis,Author Keywords
+1425,Cyber threat intelligence,IEEE Keywords
+1426,Multi-party computation,IEEE Keywords
+1427,Visual Tracking,Author Keywords
+1428,Spatiao-temporal Cues,Author Keywords
+1429,Motion Trends,Author Keywords
+1430,Appearance Changes,Author Keywords
+1431,Tracking,IEEE Keywords
+1432,Object tracking,IEEE Keywords
+1433,Non-line-of-sight,Author Keywords
+1434,Shadow signal analyze,Author Keywords
+1435,Driving safety,Author Keywords
+1436,Detection system,Author Keywords
+1437,Pedestrians,IEEE Keywords
+1438,Lighting,IEEE Keywords
+1439,Light sources,IEEE Keywords
+1440,Imaging,IEEE Keywords
+1441,Meters,IEEE Keywords
+1442,Cooperative multi-Agent learning,Author Keywords
+1443,interaction pattern disentangling,Author Keywords
+1444,Predator prey systems,IEEE Keywords
+1445,Observability,IEEE Keywords
+1446,object tracking,Author Keywords
+1447,vision transformer,Author Keywords
+1448,bottom-up,Author Keywords
+1449,top-down,Author Keywords
+1450,Bayes methods,IEEE Keywords
+1451,privacy amplification,Author Keywords
+1452,rényi differential privacy,Author Keywords
+1453,shuffle model,Author Keywords
+1454,Unmanned aerial vehicle (UAV),Author Keywords
+1455,curiosity-driven exploration,Author Keywords
+1456,reinforcement learning (RL),Author Keywords
+1457,exploration versus exploitation,Author Keywords
+1458,Discrete event system,Author Keywords
+1459,current-state opacity,Author Keywords
+1460,supervisory control theory,Author Keywords
+1461,Automata,IEEE Keywords
+1462,Systems simulation,IEEE Keywords
+1463,Observers,IEEE Keywords
+1464,Learning automata,IEEE Keywords
+1465,Discrete-event systems,IEEE Keywords
+1466,SZZ algorithm,Author Keywords
+1467,Data Flow Analysis,Author Keywords
+1468,Control Flow Analysis,Author Keywords
+1469,Computer bugs,IEEE Keywords
+1470,Linux,IEEE Keywords
+1471,Chaos,IEEE Keywords
+152,Reconfigurable intelligent surfaces,Author Keywords
+1472,simultaneous transmission and reflection,Author Keywords
+1473,wireless powered communication networks,Author Keywords
+1474,fairness performance,Author Keywords
+1475,Array signal processing,IEEE Keywords
+1476,Time division multiple access,IEEE Keywords
+1477,Uplink,IEEE Keywords
+1478,NOMA,IEEE Keywords
+1479,Downlink,IEEE Keywords
+1480,Communication networks,IEEE Keywords
+1481,Sampling,Author Keywords
+1482,Approximate Query Processing,Author Keywords
+1483,Quantum state,IEEE Keywords
+1484,Qubit,IEEE Keywords
+1485,Approximation algorithms,IEEE Keywords
+1486,Aggregates,IEEE Keywords
+1487,Continents,IEEE Keywords
+1488,Trajectory matching,Author Keywords
+1489,data federation,Author Keywords
+1490,location privacy,Author Keywords
+1491,Filtering,IEEE Keywords
+1492,Law enforcement,IEEE Keywords
+1493,Drones,IEEE Keywords
+339,Bandwidth,Author Keywords
+1494,Soft Computing,Author Keywords
+1495,Virtual network function (VNF),Author Keywords
+1496,MJOVME algorithm,Author Keywords
+1497,Credential Revocation Management,Author Keywords
+1498,Layer-2,Author Keywords
+1499,Optimistic Rollups,Author Keywords
+1500,Fraud Detection,Author Keywords
+1501,Fraud,IEEE Keywords
+1502,Trustless services,IEEE Keywords
+1503,Disasters,IEEE Keywords
+1504,Land vehicles,IEEE Keywords
+1505,Air to ground communication,IEEE Keywords
+1506,blockchain-assisted subgroup multisignature,Author Keywords
+1507,robust,Author Keywords
+1508,ECDSA signature,Author Keywords
+1509,Additives,IEEE Keywords
+1510,Space-air-ground integrated digital twin (SAG-DT) networks,Author Keywords
+1511,Lyapunov-aided multi-agent deep federated reinforcement learning (MADFRL),Author Keywords
+1512,computation offloading,Author Keywords
+1513,energy harvesting,Author Keywords
+1514,Energy harvesting,IEEE Keywords
+1515,Computer network management,Author Keywords
+1516,distributed database management systems,Author Keywords
+1517,Vehicle-to-Grid,Author Keywords
+1518,Secure storage,IEEE Keywords
+1519,Consensus Protocol,Author Keywords
+1520,EV routing,Author Keywords
+1521,fox optimization algorithm,Author Keywords
+1522,secure EV charging,Author Keywords
+1523,Batteries,IEEE Keywords
+1524,Scheduling,IEEE Keywords
+1525,Genetic algorithms,IEEE Keywords
+1526,Anonymity,Author Keywords
+1527,accountability,Author Keywords
+1528,federated learning (FL),Author Keywords
+1529,Remote Healthcare,Author Keywords
+1530,Adversarial Attacks,Author Keywords
+1531,Multi-Label,Author Keywords
+1532,X-Ray,Author Keywords
+1533,Lung Disease,Author Keywords
+1534,Merkle trees,Author Keywords
+1535,coding theory,Author Keywords
+1536,Vegetation,IEEE Keywords
+1537,Unmanned Aerial Vehicles (UAVs),Author Keywords
+1538,Authentication and Key Agreement (AKA),Author Keywords
+1539,Physical Unclonable Functions (PUFs),Author Keywords
+1540,Real-Or-Random (ROR) Model,Author Keywords
+1541,model value transfer,Author Keywords
+1542,Electric vehicle,Author Keywords
+1543,multi-domain,Author Keywords
+1544,mutual authentication,Author Keywords
+1545,vehicle to grid,Author Keywords
+1546,Threat modeling,IEEE Keywords
+1547,secure aggregation,Author Keywords
+1548,IoD networks,Author Keywords
+1549,data sharing,Author Keywords
+1550,Point-to-multipoint communications,IEEE Keywords
+1551,Blockchain-of-Things,Author Keywords
+1552,edge learning contracts,Author Keywords
+1553,federated predictive maintenance (FPM),Author Keywords
+1554,resilience,Author Keywords
+1555,resilient manufacturing,Author Keywords
+1556,Maintenance,IEEE Keywords
+1557,Trusted Execution Environment,Author Keywords
+1558,State continuity,Author Keywords
+1559,forking attack,Author Keywords
+1560,rollback attack,Author Keywords
+1561,Wide area networks,IEEE Keywords
+1562,Aragon,Author Keywords
+1563,archetypes,Author Keywords
+1564,cryptocurrencies,Author Keywords
+1565,decentralized autonomous organizations (DAOs),Author Keywords
+1566,governance,Author Keywords
+1567,online communities,Author Keywords
+1568,tokens,Author Keywords
+1569,voting system,Author Keywords
+1570,web3,Author Keywords
+1571,Digital twin modeling,Author Keywords
+1572,Smart grid,Author Keywords
+1573,Residential load forecasting,Author Keywords
+1574,SLA Management,Author Keywords
+1575,eMBB-Plus,Author Keywords
+1576,Network Slicing,Author Keywords
+1577,Service level agreements,IEEE Keywords
+1578,Dynamic scheduling,IEEE Keywords
+1579,reputation,Author Keywords
+1580,consensus service framework,Author Keywords
+1581,energy consumption,Author Keywords
+616,Network architecture,Author Keywords
+1582,scalable security,Author Keywords
+1583,IoT access control,Author Keywords
+1584,neural Networks,Author Keywords
+1585,hardware accelerators,Author Keywords
+1586,NetFPGA,Author Keywords
+1587,Hardware acceleration,IEEE Keywords
+1588,Blockchain security,Author Keywords
+1589,cyber–physical–social systems (CPSSs),Author Keywords
+1590,peer-to-peer trading,Author Keywords
+1591,social manufacturing (SM),Author Keywords
+1592,Customized AIGC services,Author Keywords
+1593,edge-driven collaborative fine-tuning,Author Keywords
+1594,edge intelligence,Author Keywords
+1595,Phase change materials,IEEE Keywords
+1596,Byzantine-robustness,Author Keywords
+1597,Coded caching,Author Keywords
+1598,Multiple-antenna placement delivery array,Author Keywords
+1599,normalized delivery time,Author Keywords
+1600,partially connected linear network,Author Keywords
+1601,Radio transmitters,IEEE Keywords
+1602,MISO communication,IEEE Keywords
+1603,Large-Scale Data Models,Author Keywords
+1604,Location Prediction,Author Keywords
+1605,federated unlearning,Author Keywords
+1606,home edge computing,Author Keywords
+1607,redacted blockchain,Author Keywords
+1608,5G broadcast services,Author Keywords
+1609,reputation evaluation,Author Keywords
+1610,spatiotemporal features,Author Keywords
+1611,Spatiotemporal phenomena,IEEE Keywords
+1612,Broadcasting,IEEE Keywords
+1613,Computer hacking,IEEE Keywords
+1614,Smartphone Sensors,Author Keywords
+1615,Human activity recognition,Author Keywords
+1616,Wireless Sensor networks,Author Keywords
+1617,Swarm Learning,Author Keywords
+636,Edge computing,Author Keywords
+1615,Human activity recognition,IEEE Keywords
+1618,Patient-Centric Healthcare,Author Keywords
+1619,PKI,Author Keywords
+1620,PKChain,Author Keywords
+1621,Block Validation,Author Keywords
+1622,Compromise-Tolerance,Author Keywords
+1623,Registers,IEEE Keywords
+1624,Public key cryptography,IEEE Keywords
+1625,Smart parking,Author Keywords
+1626,repetitive query,Author Keywords
+1627,SkNN,Author Keywords
+1628,Blocklists,IEEE Keywords
+1629,Watchtower,Author Keywords
+1630,digital cash,Author Keywords
+1631,Poles and towers,IEEE Keywords
+1632,voting,Author Keywords
+1633,self-tallying,Author Keywords
+1634,MultiChain,Author Keywords
+1635,record confirmation,Author Keywords
+1636,record forwarder selection (RFS),Author Keywords
+1637,record transfer,Author Keywords
+1638,Radio frequency,IEEE Keywords
+1639,Vehicular Social Networks (VSNs),Author Keywords
+1640,location-based Speculative Byzantine Fault Tolerance (LSBFT),Author Keywords
+1641,transaction fairness,Author Keywords
+1642,RingCT,Author Keywords
+1643,post-quantum,Author Keywords
+1644,commitment,Author Keywords
+1645,transition,Author Keywords
+1646,Vehicle recruitment,Author Keywords
+1647,mechanism design,Author Keywords
+1648,Advertising,IEEE Keywords
+1649,Bluetooth,IEEE Keywords
+1650,Augmented Reality,Author Keywords
+1651,Virtual Reality,Author Keywords
+1652,Mixed Reality,Author Keywords
+1653,Networking,Author Keywords
+1654,Communications,Author Keywords
+1655,Edge Computing,Author Keywords
+1656,Avatars,Author Keywords
+1657,Rendering,Author Keywords
+1658,3D Modeling,Author Keywords
+1659,User-to-User and User-to-Business Interactions,Author Keywords
+1660,conflict management,Author Keywords
+1661,contact theory,Author Keywords
+1662,online developer community,Author Keywords
+1663,Byzantine robust,Author Keywords
+1664,coded computing,Author Keywords
+1665,distributed learning,Author Keywords
+1666,sentiment classification,Author Keywords
+1667,social media platform,Author Keywords
+1668,online medical diagnosis,Author Keywords
+1669,similarity query,Author Keywords
+1670,Medical diagnosis,IEEE Keywords
+1671,Consensus,Author Keywords
+1672,distributed systems security,Author Keywords
+1673,network latency,Author Keywords
+1674,double spending,Author Keywords
+1675,Lead,IEEE Keywords
+1676,Upper bound,IEEE Keywords
+1677,culture preservation,Author Keywords
+1678,generative art,Author Keywords
+1679,reverse auction,Author Keywords
+1680,Art,IEEE Keywords
+1681,Mobile edge computing,Author Keywords
+1682,Privacy preservation,Author Keywords
+1683,User behavior analysis,Author Keywords
+1684,Internet of Things technology,Author Keywords
+1685,cold chain logistics supervision,Author Keywords
+1686,real-time monitoring,Author Keywords
+1687,agricultural products,Author Keywords
+1688,Agricultural products,IEEE Keywords
+1689,Malicious traffic detection,Author Keywords
+1690,Docker,Author Keywords
+1691,Image edge detection,IEEE Keywords
+1692,Collaborative edge computing,Author Keywords
+1693,lightning network,Author Keywords
+1694,energy trading,Author Keywords
+1695,zk-SNARKs,Author Keywords
+1057,Crowdsourcing,Author Keywords
+1696,dual authentication,Author Keywords
+1697,key-exposure,Author Keywords
+1698,vehicle epoch communication,Author Keywords
+1699,Consortium Blockchain,Author Keywords
+1700,PBFT,Author Keywords
+1701,Rényi Differential Privacy,Author Keywords
+1702,Poisoning Attack,Author Keywords
+1703,Vulnerability detection,Author Keywords
+1704,Vulnerability sub-graph,Author Keywords
+1705,Graph neural network,Author Keywords
+1706,IOTA,Author Keywords
+1707,resource management,Author Keywords
+1708,smart grid,Author Keywords
+1709,data trading,Author Keywords
+1710,dispute handling,Author Keywords
+1711,stackelberg game,Author Keywords
+1712,state channels,Author Keywords
+1713,Mobility-Aware Service Discovery Architecture,Author Keywords
+1714,Predictive Discovery,Author Keywords
+1715,Semantic Networking,Author Keywords
+1716,Blockchain-aware Resource Discovery,Author Keywords
+1717,Service Prediction,Author Keywords
+1718,Service Requests,Author Keywords
+1719,Service Advertisement,Author Keywords
+1720,Service Selection,Author Keywords
+1721,6G Networks,Author Keywords
+1722,Edge-Cloud-Continuum,Author Keywords
+1723,Silicon,IEEE Keywords
+1724,isomerism learning,Author Keywords
+1725,public sentiment,Author Keywords
+1726,social media,Author Keywords
+1727,Payment Channels,Author Keywords
+1728,Network Algorithms,Author Keywords
+1729,Random variables,IEEE Keywords
+1730,Channel capacity,IEEE Keywords
+1731,industrial Big Data analytics,Author Keywords
+1732,industrial intelligent systems (IIS),Author Keywords
+1733,swarm learning,Author Keywords
+1734,reentrancy,Author Keywords
+1735,fuzz testing,Author Keywords
+1736,Poisson game,Author Keywords
+1737,Byzantine fault-tolerant,Author Keywords
+1738,High-latency environments,Author Keywords
+1739,Non-blocking,Author Keywords
+1740,Dolphins,IEEE Keywords
+1741,model watermark,Author Keywords
+1742,ownership verification,Author Keywords
+1743,Watermarking,IEEE Keywords
+1744,Fingerprint recognition,IEEE Keywords
+1745,Crowdsourcing learning,Author Keywords
+1746,Defense,Author Keywords
+1747,membership inference attack,Author Keywords
+1748,non-member representation space,Author Keywords
+1749,Code Generation,Author Keywords
+1750,Repository Knowledge Mining,Author Keywords
+1751,Code Reuse,Author Keywords
+1752,Retrieval-Augmented Generation,Author Keywords
+1753,Australia,IEEE Keywords
+1754,Formal specification,Author Keywords
+1755,Protection Profile,Author Keywords
+1756,theorem proving,Author Keywords
+1757,common criteria,Author Keywords
+1758,Runtime,IEEE Keywords
+1759,Formal specifications,IEEE Keywords
+1760,Calculus,IEEE Keywords
+1761,Formal verification,IEEE Keywords
+1762,Security Analysis,Author Keywords
+1763,Vulnerabilities,Author Keywords
+658,Cryptocurrency,Author Keywords
+1764,Game Theory,Author Keywords
+1765,Payment Channel Network,Author Keywords
+156,Reliability,Author Keywords
+1766,Stablecoin,Author Keywords
+1767,Investment,IEEE Keywords
+1768,Stability criteria,IEEE Keywords
+1769,Reliability theory,IEEE Keywords
+1770,Reliability engineering,IEEE Keywords
+1771,Data aggregation,Author Keywords
+1772,self-sovereign identity,Author Keywords
+1773,decentralized network,Author Keywords
+1774,data security,Author Keywords
+1771,Data aggregation,IEEE Keywords
+1775,Soft sensors,IEEE Keywords
+1776,Confidential smart contract,Author Keywords
+1777,Zero-knowledge Proof,Author Keywords
+1778,Main-secondary,IEEE Keywords
+1779,Zero knowledge proof,IEEE Keywords
+1780,camera trap,Author Keywords
+1781,halyomorpha halys,Author Keywords
+1782,pest monitoring,Author Keywords
+1783,real-world deployment,Author Keywords
+1784,sensor networks,Author Keywords
+1785,smart farming,Author Keywords
+1786,Cameras,IEEE Keywords
+1787,Insects,IEEE Keywords
+1788,Sensor systems,IEEE Keywords
+1789,Printed circuits,IEEE Keywords
+1790,Humidity,IEEE Keywords
+1791,Tor network,Author Keywords
+1792,anonymous communication,Author Keywords
+1793,AR,Author Keywords
+1794,bibliometric analysis,Author Keywords
+1795,cyber-physical social systems,Author Keywords
+1796,cybersecurity,Author Keywords
+1797,iot,Author Keywords
+1798,metaverse,Author Keywords
+1799,mr,Author Keywords
+1800,systematic review,Author Keywords
+1801,vr,Author Keywords
+1802,Bibliometrics,IEEE Keywords
+1803,Guidelines,IEEE Keywords
+1804,block propagation,Author Keywords
+1805,age of block,Author Keywords
+1806,graph attention network,Author Keywords
+1807,Web 2.0,IEEE Keywords
+1808,Change propagation,Author Keywords
+1809,DCR graph,Author Keywords
+1810,dynamic change correctness,Author Keywords
+1811,process choreography,Author Keywords
+1812,Machine Communications,Author Keywords
+1813,Programmable network,Author Keywords
+1814,Access Control.,Author Keywords
+1815,Authorization,IEEE Keywords
+1816,Spectrum Sensing (SS),Author Keywords
+1817,Cognitive Radio Networks (CRN),Author Keywords
+1818,Fusion Center (FC),Author Keywords
+1819,Format Pareto Preserving Distributed Encryption Standard (FPPDES),Author Keywords
+1820,Adjustable Trainable Sigmoid Nesterov-accelerated Recurrent Neural Network (ATSNRNN),Author Keywords
+1821,GaussIT Skilled Optimization Algorithm (GIT-SOA),Author Keywords
+1822,Secure Lagrange Multiplied Hash Algorithm-256 (SLMHA-256),Author Keywords
+1823,Elliptic Curve Iterated Summed Cryptography (ECISC),Author Keywords
+1824,Cognitive radio,IEEE Keywords
+1825,Pareto optimization,IEEE Keywords
+1826,Trustworthy Machine Learning,Author Keywords
+1827,Zero-Knowledge Proof,Author Keywords
+1828,Arithmetic,IEEE Keywords
+1829,Software as a service,IEEE Keywords
+1830,phishing scam detection,Author Keywords
+1831,feature fusion,Author Keywords
+1832,network embedding,Author Keywords
+1833,cross-platform,Author Keywords
+1834,industrial Internet of things (IIoTs),Author Keywords
+1835,interoperability,Author Keywords
+1836,metadata registry (MDR),Author Keywords
+1837,Ontologies,IEEE Keywords
+1838,Evolutionary computation,IEEE Keywords
+1839,Fuzzy PID,Author Keywords
+1840,Hybrid PSO,Author Keywords
+1841,Lighting control system,Author Keywords
+1842,Machine Intelligence,Author Keywords
+1843,Lighting control,IEEE Keywords
+1844,PI control,IEEE Keywords
+1845,PD control,IEEE Keywords
+1846,Motors,IEEE Keywords
+1847,Wireless Bio-Sensor Devices,Author Keywords
+1848,Communication Security,Author Keywords
+1849,Key Isolation,Author Keywords
+1850,Biosensors,IEEE Keywords
+1851,Trust Management,Author Keywords
+1852,Computer network reliability,IEEE Keywords
+1853,Dual functional radar communication system,Author Keywords
+1854,Covert communication,Author Keywords
+1855,Index modulation,Author Keywords
+1856,Radar,IEEE Keywords
+1857,Chirp,IEEE Keywords
+1858,Detectors,IEEE Keywords
+1859,Radar detection,IEEE Keywords
+1860,bitcoin mining,Author Keywords
+1861,decentralization,Author Keywords
+1862,energy-efficiency,Author Keywords
+1863,proof-of-work,Author Keywords
+1864,Proof of Work,IEEE Keywords
+1865,Distributed systems,Author Keywords
+1866,Connected Autonomous Systems (CAS),Author Keywords
+1867,Data dissemination,IEEE Keywords
+1868,conditional privacy preservation,Author Keywords
+1869,identity-based signature,Author Keywords
+1870,pseudonym management,Author Keywords
+1871,Merkle tree,Author Keywords
+1872,Digital Twin,Author Keywords
+1873,Disaster Management,Author Keywords
+1874,Flood Prediction,Author Keywords
+1875,Assistive Care,Author Keywords
+1876,Precipitation,IEEE Keywords
+1877,Disaster management,IEEE Keywords
+1878,Water,IEEE Keywords
+1879,Digital-twin-driven vehicle road cooperation,Author Keywords
+1880,personalized local differential privacy,Author Keywords
+1881,time-sensitive,Author Keywords
+1882,Kernel,IEEE Keywords
+1883,Syntactics,IEEE Keywords
+1884,Decentralized anonymous payment,Author Keywords
+1885,regulation,Author Keywords
+1886,Regulation,IEEE Keywords
+1887,Keyword-based auditing,Author Keywords
+1888,Attribute-based hierarchical structure,Author Keywords
+1889,Regulatable challenge mechanism,Author Keywords
+1890,Batch fault localization,Author Keywords
+1891,Government,IEEE Keywords
+1892,Distributed vehicle sharing,Author Keywords
+1893,pricing,Author Keywords
+1894,three-sided stable matching,Author Keywords
+1895,Stability analysis,IEEE Keywords
+1896,Numerical stability,IEEE Keywords
+1897,Headphones,IEEE Keywords
+1898,Full shuffle,Author Keywords
+1899,hidden committees,Author Keywords
+1900,privacy revocation,Author Keywords
+1901,anonymous credentials,Author Keywords
+1902,Avatar,Author Keywords
+1903,Animation,Author Keywords
+1904,Human-Computer Interaction,Author Keywords
+1905,3D Interaction,Author Keywords
+1906,Blockcha,Author Keywords
+1907,Faces,IEEE Keywords
+1908,Face recognition,IEEE Keywords
+1909,Cap-and-trade,Author Keywords
+1910,renewable uncertainty,Author Keywords
+1911,coalitional game,Author Keywords
+1912,quota sharing,Author Keywords
+1913,profit allocation,Author Keywords
+1914,Power generation,IEEE Keywords
+1915,Video streaming,Author Keywords
+1916,cooperative processing,Author Keywords
+1917,adaptive incentive,Author Keywords
+1918,multi-agent reinforcement learning,Author Keywords
+1919,Streaming media,IEEE Keywords
+1920,Distributed storage,Author Keywords
+1921,Proof of retrievability,Author Keywords
+1922,Vector commitment,Author Keywords
+1923,Phishing scam detection,Author Keywords
+1924,Streaming framework,Author Keywords
+1925,Meta-learning,Author Keywords
+1926,Representation learning,IEEE Keywords
+1927,Metalearning,IEEE Keywords
+1928,Smart Logistics,Author Keywords
+1929,Logistics,IEEE Keywords
+1930,Global Positioning System,IEEE Keywords
+1931,Radiofrequency identification,IEEE Keywords
+1932,Auditability,Author Keywords
+1933,Byzantine robustness,Author Keywords
+1934,poisoning attack,Author Keywords
+1935,privacy preservation,Author Keywords
+1936,Phishing scams detection,Author Keywords
+1937,Temporal evolution,Author Keywords
+1938,Diffusion networks,Author Keywords
+1939,Beta Control Access Scheme,Author Keywords
+1940,Injection attacks,Author Keywords
+1941,Security validation,Author Keywords
+1942,IoT logs,Author Keywords
+1943,Solidity,Author Keywords
+1944,Smart contract security,Author Keywords
+1945,Anomaly injection,Author Keywords
+1946,trust evaluation,Author Keywords
+1947,information incentive mechanism,Author Keywords
+1147,Nash equilibrium,Author Keywords
+1948,virtual machine,Author Keywords
+1949,WebAssembly,Author Keywords
+1950,ZKSNARK,Author Keywords
+1951,Virtual machining,IEEE Keywords
+1952,Circuits,IEEE Keywords
+1953,Authentication protocol,Author Keywords
+1954,V2V communication,Author Keywords
+1955,Lightweight authentication,Author Keywords
+1956,Smart cards,IEEE Keywords
+1957,Vehicle safety,IEEE Keywords
+1958,Traffic control,IEEE Keywords
+1959,vulnerability detection,Author Keywords
+1960,multi-modal,Author Keywords
+1961,Graph neural network (GNN),Author Keywords
+1962,imbalanced data classification,Author Keywords
+1963,Ponzi contracts,Author Keywords
+1964,undersampling,Author Keywords
+1965,Local differential privacy,Author Keywords
+1966,Longitudinal data,Author Keywords
+1967,Data Security,Author Keywords
+1968,Key Generation,Author Keywords
+1969,Asynchronous,Author Keywords
+1970,Privacy Preserving,Author Keywords
+1971,Certificateless Public-key Cryptography,Author Keywords
+1972,Cross-Domain Authentication,Author Keywords
+1973,Provable Security,Author Keywords
+1974,Ethereum transaction network,Author Keywords
+1975,phishing users,Author Keywords
+1976,representation learning,Author Keywords
+1977,sparsity,Author Keywords
+1978,Tensors,IEEE Keywords
+1979,Distributed ledgers,Author Keywords
+1980,online syndicated lending,Author Keywords
+1981,secure computation,Author Keywords
+1982,Unmanned Aerial Vehicle (UAV),Author Keywords
+1983,Peer-to-Peer (P2P),Author Keywords
+1984,Vehicular Ad hoc Network (VANET),Author Keywords
+1985,Connectivity,Author Keywords
+1986,tech theater – techwashing – ethicswashing – hypocrisy,Author Keywords
+1987,Artificial general intelligence,IEEE Keywords
+1988,IoVs,Author Keywords
+1989,CRT,Author Keywords
+1990,Certificateless,Author Keywords
+1991,Aggregate Signcryption,Author Keywords
+1992,Key Agreement,Author Keywords
+1993,Cathode ray tubes,IEEE Keywords
+1994,Autonomous vehicle platoon,Author Keywords
+1995,consensus speed advisory system,Author Keywords
+1996,Visual Programming,Author Keywords
+1997,Higher Education,Author Keywords
+1998,Teaching,Author Keywords
+1999,Programming profession,IEEE Keywords
+2000,User interfaces,IEEE Keywords
+2001,factor analysis,Author Keywords
+2002,market factors,Author Keywords
+2003,nonfungible token,Author Keywords
+2004,rarity,Author Keywords
+2005,Cost accounting,IEEE Keywords
+2006,vehicular communications,Author Keywords
+2007,applicational extension,Author Keywords
+2008,fault-tolerance,Author Keywords
+2009,trading,Author Keywords
+2010,AI/ML,Author Keywords
+2011,B5G networks,Author Keywords
+2012,physical layer security,Author Keywords
+2013,post-quantum cryptography,Author Keywords
+2014,Phishing Detection,Author Keywords
+2015,Feature Extension,Author Keywords
+2016,Accesslists,IEEE Keywords
+2017,Machine learning algorithms,IEEE Keywords
+2018,Byzantine fault tolerance,Author Keywords
+2019,asynchronous,Author Keywords
+2020,Low latency communication,IEEE Keywords
+2021,Encrypted traffic classification,Author Keywords
+2022,interpretability,Author Keywords
+2023,recurrent neural network,Author Keywords
+2024,Recurrent neural networks,IEEE Keywords
+2025,Markov processes,IEEE Keywords
+2026,Network-induced phenomena,Author Keywords
+2027,network intrusion/malware detection systems,Author Keywords
+2028,wired/wireless network,Author Keywords
+2029,model robustness,Author Keywords
+2030,Out of order,IEEE Keywords
+225,Data augmentation,Author Keywords
+2031,domain adaptation,Author Keywords
+2032,forgery detection and localization,Author Keywords
+2033,image forensics,Author Keywords
+2034,self-supervised learning,Author Keywords
+2035,Transform coding,IEEE Keywords
+2036,Image coding,IEEE Keywords
+2037,Splicing,IEEE Keywords
+2038,Feature completion,Author Keywords
+2039,graph neural network (GNN),Author Keywords
+2040,hybrid-absent data,Author Keywords
+2041,incomplete multiview learning,Author Keywords
+2042,Refining,IEEE Keywords
+2043,Gaussian noise,IEEE Keywords
+2044,Deep generative model,Author Keywords
+2045,dual attention memory,Author Keywords
+2046,irregularly sampled mutivariate time series,Author Keywords
+2047,joint task learning,Author Keywords
+2048,stochastic imputation,Author Keywords
+2049,Interpolation,IEEE Keywords
+2050,Learning systems,IEEE Keywords
+2051,CNN,Author Keywords
+2052,secure inference,Author Keywords
+2053,Convolutional neural networks,IEEE Keywords
+2054,Haze,Author Keywords
+2055,Smog,Author Keywords
+2056,Fog,Author Keywords
+2057,Visibility Restoration,Author Keywords
+2058,Image restoration,IEEE Keywords
+2059,entropy function,Author Keywords
+2060,matroid,Author Keywords
+2061,matroidal entropy function,Author Keywords
+2062,information inequalities,Author Keywords
+2063,orthogonal array,Author Keywords
+2064,polymatroid,Author Keywords
+2065,variable strength orthogonal array,Author Keywords
+2066,Cramer-Rao bounds,IEEE Keywords
+2067,Channel coding,IEEE Keywords
+2068,Network coding,IEEE Keywords
+2069,Broadcast Signcryption,Author Keywords
+2070,Equality test,Author Keywords
+2071,Heterogeneity,Author Keywords
+2072,learning from crowds,Author Keywords
+2073,repeated labeling,Author Keywords
+2074,graph neural networks,Author Keywords
+2075,attention mechanism,Author Keywords
+2076,Inference algorithms,IEEE Keywords
+2077,Drug synergy,Author Keywords
+2078,modified triangular mutation,Author Keywords
+2079,differential evolution,Author Keywords
+2080,cancer treatment,Author Keywords
+1273,Communication system security,Author Keywords
+369,Energy efficiency,Author Keywords
+950,Relays,Author Keywords
+2081,Optimization methods,Author Keywords
+2082,Eavesdropping,IEEE Keywords
+2083,Backdoor Attack,Author Keywords
+2084,Container scheduling,Author Keywords
+2085,resource overbooking,Author Keywords
+2086,soft actor-critic reinforcement learning,Author Keywords
+2087,Containers,IEEE Keywords
+2088,Processor scheduling,IEEE Keywords
+2089,Credit Card Fraud Detection,Author Keywords
+2090,Financial Security,Author Keywords
+2091,Kolmogorov-Arnold Networks,Author Keywords
+2092,Multilayer Perceptron,Author Keywords
+2093,Credit cards,IEEE Keywords
+2094,Ensemble learning,IEEE Keywords
+2095,Financial services,IEEE Keywords
+2096,Large Models,Author Keywords
+2097,Multi-feature Fusion,Author Keywords
+2098,Medical treatment,IEEE Keywords
+2099,Mental health,IEEE Keywords
+2100,Correlated Time Series Forecasting,Author Keywords
+2101,Lightweight Neural Networks,Author Keywords
+2102,Knowledge Distillation,Author Keywords
+2103,Computed tomography,IEEE Keywords
+2104,Address clustering,Author Keywords
+2105,bitcoin,Author Keywords
+2106,user entity identification,Author Keywords
+2107,Clustering methods,IEEE Keywords
+2108,directed acyclic graph (DAG),Author Keywords
+2109,incentive,Author Keywords
+698,Decentralized applications,Author Keywords
+2110,encrypted traffic,Author Keywords
+2111,Mobile applications,IEEE Keywords
+2112,Physical layer security (PLS),Author Keywords
+2113,reconfigurable intelligent surface (RIS),Author Keywords
+2114,smart radio environment,Author Keywords
+2115,beyond 5G (B5G) networks,Author Keywords
+2116,multiple-input multiple-output (MIMO),Author Keywords
+2117,millimeter wave (mmWave),Author Keywords
+2118,terahertz (THz),Author Keywords
+2119,device-to-device (D2D) communication,Author Keywords
+2120,cognitive radio networks (CRNs),Author Keywords
+2121,simultaneous wireless information and power transfer (SWIPT),Author Keywords
+2122,energy harvesting (EH),Author Keywords
+2123,satellite communications,Author Keywords
+2124,multicast communications,Author Keywords
+2125,cell-free networks,Author Keywords
+2126,relay-aided networks,Author Keywords
+2127,wireless body area network (WBAN),Author Keywords
+2128,integrated sensing and communications (ISAC),Author Keywords
+2129,internet-of-everything (IoT),Author Keywords
+2130,industrial internet of thing (IIoT),Author Keywords
+2131,internet of medical things (IoMT),Author Keywords
+2132,backscatter communications,Author Keywords
+2133,wireless sensor networks (WSNs),Author Keywords
+2134,optical wireless communications (OWC),Author Keywords
+2135,visible light communications (VLC),Author Keywords
+2136,free space optical (FSO),Author Keywords
+2137,high-altitude platform systems (HAPs),Author Keywords
+2138,coordinated multipoint (CoMP) communications,Author Keywords
+2139,Ad-hoc networks,Author Keywords
+2140,under-water communications,Author Keywords
+2141,mixed reality,Author Keywords
+2142,performance analysis,Author Keywords
+2143,non-orthogonal multiple access (NOMA),Author Keywords
+2144,Ad hoc networks,IEEE Keywords
+2145,selfish mining,Author Keywords
+2146,power adjusting withholding,Author Keywords
+2147,imperfect network,Author Keywords
+2148,Nonce,IEEE Keywords
+2149,Cooperative communication,Author Keywords
+2150,power control,Author Keywords
+2149,Cooperative communication,IEEE Keywords
+2151,point cloud registration,Author Keywords
+2152,low overlap,Author Keywords
+2153,Double-layer Multi-scale Star-graph,Author Keywords
+2154,Multi-scale Neighbor Feature Star-graphs,Author Keywords
+2155,Multi-scale Correspondence Star-graphs,Author Keywords
+2156,Multi-scale Matching Star-graphs,Author Keywords
+2157,superior robustness,Author Keywords
+2158,Point cloud compression,IEEE Keywords
+2159,Stars,IEEE Keywords
+2160,Wireless federated learning,Author Keywords
+2161,reconfigurable intelligence surface (RIS),Author Keywords
+2162,device selection,Author Keywords
+2163,Quantization (signal),IEEE Keywords
+2164,dynamic searchable symmetric encryption,Author Keywords
+2165,forward and backward privacy,Author Keywords
+2166,verification,Author Keywords
+2167,GitHub Copilot,Author Keywords
+2168,Bug fixing,Author Keywords
+2169,Vulnerability,Author Keywords
+2170,Programming,IEEE Keywords
+2171,Computer languages,IEEE Keywords
+2172,risk control,Author Keywords
+2173,network propagation,Author Keywords
+2174,financial transaction networks,Author Keywords
+2175,stable consensus,Author Keywords
+2176,adaptive consensus,Author Keywords
+2177,dynamic network,Author Keywords
+2178,partially connected network,Author Keywords
+2179,Decentration,Author Keywords
+2180,Immutability,Author Keywords
+2181,Transparency,Author Keywords
+2182,Supply chain,Author Keywords
+2183,MaaS,Author Keywords
+2184,Reliable broadcast,Author Keywords
+2185,trusted services,Author Keywords
+2186,trusted execution environment,Author Keywords
+2187,decision fusion,Author Keywords
+2188,ensemble learning,Author Keywords
+2189,majority voting,Author Keywords
+2190,multiclass classification,Author Keywords
+2191,truth discovery,Author Keywords
+2192,Error analysis,IEEE Keywords
+2193,Discrete Fourier transforms,IEEE Keywords
+2194,Combat systems,Author Keywords
+2195,cyber threat models,Author Keywords
+2196,internet of battle things,Author Keywords
+2197,internet of military things,Author Keywords
+2198,Unified modeling language,IEEE Keywords
+2199,Green computing,IEEE Keywords
+2200,Artificial Intelligence,Author Keywords
+2201,biometrics,Author Keywords
+2202,continuous authentication,Author Keywords
+2203,intrusion detection,Author Keywords
+2204,multimodality,Author Keywords
+2205,NFTs,Author Keywords
+2206,Decentralized Application (DApp),Author Keywords
+2207,Mining task offloading,Author Keywords
+2208,Coarse Correlated Equilibrium (CCE),Author Keywords
+2209,Repeated stochastic game,Author Keywords
+2210,Lyapunov optimization,Author Keywords
+2211,Drift-plus-penalty algorithm,Author Keywords
+2212,Communication resource allocation,Author Keywords
+2213,data quality,Author Keywords
+2214,mobile crowdsensing (MCS),Author Keywords
+2215,social concerns,Author Keywords
+2216,two-stage Stackelberg game,Author Keywords
+2217,AI-IoHT,Author Keywords
+2218,smart healthcare,Author Keywords
+2219,Delegate Proof of Stake,Author Keywords
+2220,Kendall’s Rank Correlation,Author Keywords
+2221,whale optimization,Author Keywords
+2222,Picewise chaotic mapping,Author Keywords
+2223,Proof of stake,IEEE Keywords
+2224,Whale optimization algorithms,IEEE Keywords
+2225,Support vector machines,IEEE Keywords
+2226,Explainable AI,Author Keywords
+2227,Consumer Electronic Devices,Author Keywords
+2228,Task Offloading,Author Keywords
+2229,Energy Efficiency,Author Keywords
+2230,Cloud-edge,Author Keywords
+2231,Group Authentication,Author Keywords
+2232,Lightweight,Author Keywords
+2233,Metaverse service,Author Keywords
+2234,Parallel BFT,Author Keywords
+2235,hierarchical architecture,Author Keywords
+2236,secret sharing scheme,Author Keywords
+2237,Industrial metaverse,Author Keywords
+2238,intelligent manufacturing,Author Keywords
+2239,process manufacturing,Author Keywords
+2240,virtual-real fusion,Author Keywords
