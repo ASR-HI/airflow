@@ -53,7 +53,7 @@ def insert_csv_data_DB(cleaned_csv_data):
 
         for _, row in cleaned_csv_data['doi_authors'].iterrows():
             cursor.execute("""
-                INSERT INTO author_labs (AuthorID, DOI)
+                INSERT INTO author_article (AuthorID, DOI)
                 VALUES (%s, %s) ON CONFLICT (AuthorID, DOI) DO NOTHING;
             """, (row['AuthorID'], row['DOI']))
 

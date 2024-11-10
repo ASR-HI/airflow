@@ -1,7 +1,5 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from airflow.operators.bash import BashOperator
-
 from datetime import datetime, timedelta
 from load_csv_data import load_authors, load_keywords, load_labs, load_doi_authors, load_doi_keywords
 from load_json_data import load_json_data
@@ -158,11 +156,6 @@ with DAG(
         provide_context=True
     )
     
-    run_visualization_script = BashOperator(
-        task_id='run_visualization_script',
-        bash_command='streamlit run visualisation.py'
-    )
-    
     # Orchestration des tâches
     load_json_data_task >> clean_json_data_task >> insert_json_table_task
     
@@ -173,7 +166,7 @@ with DAG(
     for load_task, clean_task in zip(load_csv_data_task, clean_csv_data_task):
         load_task >> clean_task >> insert_csv_table_task
 
-    insert_json_table_task >> insert_csv_table_task >> run_visualization_script
+    insert_json_table_task >> insert_csv_table_task
 
     
     #C insert_json_table_task >> insert_csv_table_task
