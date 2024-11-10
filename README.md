@@ -77,13 +77,6 @@ L'architecture de la pipeline de données est composée des étapes suivantes :
 - `create_tables.py` : Contient les fonctions pour insérer les données dans PostgreSQL.
 - `visualisation.py` : Contient le code pour l'application Streamlit de visualisation des données.
 
-## Contribuer
-
-Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des changements que vous souhaitez apporter.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
